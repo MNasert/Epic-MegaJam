@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TestA",
+			"Path": "X:\\Unreal\\Epic-MegaJam\\TestA\\Source\\TestA.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TestAEditor",
+			"Path": "X:\\Unreal\\Epic-MegaJam\\TestA\\Source\\TestAEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
