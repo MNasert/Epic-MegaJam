@@ -1,0 +1,1901 @@
+﻿Log file open, 08/27/21 14:36:39
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: MarsSurvival
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.403848
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=platschplatsch -epicuserid=5280f9d0e48c4bb88bb0892161deee66 -epiclocale=de -epicsandboxid=ue
+LogInit: Base Directory: X:/Epic/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Engine.ini]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Engine.ini]
+[2021.08.27-12.36.40:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Engine.ini]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Engine.ini]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.27-12.36.40:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Engine.ini]
+[2021.08.27-12.36.40:906][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Engine.ini]
+[2021.08.27-12.36.40:920][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-12.36.40:920][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.27-12.36.40:920][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.27-12.36.40:920][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-12.36.40:920][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.27-12.36.40:920][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-12.36.40:920][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.27-12.36.40:920][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.27-12.36.40:920][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.27-12.36.40:920][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.27-12.36.40:921][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.27-12.36.40:922][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.27-12.36.40:922][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.27-12.36.40:922][  0]LogHAL: Display: Platform has ~ 16 GB [17125408768 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.27-12.36.40:922][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.27-12.36.40:922][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.27-12.36.40:922][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.27-12.36.40:923][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.27-12.36.40:924][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Scalability.ini]
+[2021.08.27-12.36.40:924][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.27-12.36.40:924][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.27-12.36.40:924][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.27-12.36.40:924][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.27-12.36.40:924][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.27-12.36.40:924][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.27-12.36.40:924][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.27-12.36.40:924][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Engine.ini]
+[2021.08.27-12.36.40:924][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Config/Windows/Editor.ini]
+[2021.08.27-12.36.40:924][  0]LogInit: Computer: MAX-RECHNER
+[2021.08.27-12.36.40:924][  0]LogInit: User: Max
+[2021.08.27-12.36.40:924][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.08.27-12.36.40:924][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.27-12.36.40:924][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.08.27-12.36.40:924][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.27-12.36.40:924][  0]LogMemory: Process Physical Memory: 142.53 MB used, 142.54 MB peak
+[2021.08.27-12.36.40:924][  0]LogMemory: Process Virtual Memory: 120.73 MB used, 120.73 MB peak
+[2021.08.27-12.36.40:924][  0]LogMemory: Physical Memory: 9248.00 MB used,  7084.06 MB free, 16332.06 MB total
+[2021.08.27-12.36.40:924][  0]LogMemory: Virtual Memory: 134209360.00 MB used,  8370.53 MB free, 134217728.00 MB total
+[2021.08.27-12.36.40:932][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.27-12.36.41:003][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.27-12.36.41:004][  0]LogInit: Using OS detected language (de-DE).
+[2021.08.27-12.36.41:004][  0]LogInit: Using OS detected locale (de-DE).
+[2021.08.27-12.36.41:006][  0]LogTextLocalizationManager: No specific localization for 'de-DE' exists, so the 'de' localization will be used.
+[2021.08.27-12.36.41:007][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/de/Editor.locres' could not be opened for reading!
+[2021.08.27-12.36.41:007][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/de/EditorTutorials.locres' could not be opened for reading!
+[2021.08.27-12.36.41:007][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/de/Keywords.locres' could not be opened for reading!
+[2021.08.27-12.36.41:007][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/de/Category.locres' could not be opened for reading!
+[2021.08.27-12.36.41:007][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/de/ToolTips.locres' could not be opened for reading!
+[2021.08.27-12.36.41:007][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/de/PropertyNames.locres' could not be opened for reading!
+[2021.08.27-12.36.41:007][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/de/Engine.locres' could not be opened for reading!
+[2021.08.27-12.36.41:008][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.27-12.36.41:029][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.27-12.36.41:054][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.27-12.36.41:054][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.27-12.36.41:751][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.08.27-12.36.41:751][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.27-12.36.41:751][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.27-12.36.41:751][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.27-12.36.41:898][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060' (Feature Level 11_0)
+[2021.08.27-12.36.41:898][  0]LogD3D11RHI:       12143/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.08.27-12.36.42:012][  0]LogD3D11RHI:    1. 'NVIDIA Quadro M4000' (Feature Level 11_0)
+[2021.08.27-12.36.42:012][  0]LogD3D11RHI:       8144/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2021.08.27-12.36.42:015][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.27-12.36.42:016][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.27-12.36.42:016][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.27-12.36.42:090][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.27-12.36.42:090][  0]LogD3D11RHI:     GPU DeviceId: 0x2503 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.27-12.36.42:090][  0]LogWindows: EnumDisplayDevices:
+[2021.08.27-12.36.42:091][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:1 D:1)
+[2021.08.27-12.36.42:091][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:1)
+[2021.08.27-12.36.42:092][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.08.27-12.36.42:092][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.08.27-12.36.42:092][  0]LogWindows:    4. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2021.08.27-12.36.42:093][  0]LogWindows:    5. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2021.08.27-12.36.42:093][  0]LogWindows:    6. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2021.08.27-12.36.42:094][  0]LogWindows:    7. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2021.08.27-12.36.42:094][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.08.27-12.36.42:094][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2021.08.27-12.36.42:094][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
+[2021.08.27-12.36.42:094][  0]LogD3D11RHI:      Driver Date: 7-12-2021
+[2021.08.27-12.36.42:094][  0]LogRHI: Texture pool is 8500 MB (70% of 12143 MB)
+[2021.08.27-12.36.42:187][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.27-12.36.42:187][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.27-12.36.42:187][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.27-12.36.42:230][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.27-12.36.42:233][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.27-12.36.42:733][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.27-12.36.42:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.27-12.36.42:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.27-12.36.42:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.27-12.36.42:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.27-12.36.42:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.27-12.36.42:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.27-12.36.42:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.27-12.36.42:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.27-12.36.42:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.27-12.36.42:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.27-12.36.42:794][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.27-12.36.42:794][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.27-12.36.42:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.27-12.36.42:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.27-12.36.42:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.27-12.36.42:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.27-12.36.42:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.27-12.36.42:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.27-12.36.42:888][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.27-12.36.42:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.27-12.36.42:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.27-12.36.42:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.27-12.36.42:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.27-12.36.42:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.27-12.36.42:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.27-12.36.43:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.27-12.36.43:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.27-12.36.43:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.27-12.36.43:025][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.27-12.36.43:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.27-12.36.43:050][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.27-12.36.43:050][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.27-12.36.43:063][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.27-12.36.43:158][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.27-12.36.43:158][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../Unreal/Epic-MegaJam/MarsSurvival/Intermediate/Shaders/WorkingDirectory/303212/).
+[2021.08.27-12.36.43:159][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Max/AppData/Local/Temp/UnrealShaderWorkingDir/4BA6F25D4076F5FA39508CA41F92A15F/'.
+[2021.08.27-12.36.43:159][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.27-12.36.43:159][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.27-12.36.44:265][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.27-12.36.44:329][  0]LogDerivedDataCache: Loaded boot cache 0.06s 81MB C:/Users/Max/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.27-12.36.44:329][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Max/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.27-12.36.44:329][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal/Epic-MegaJam/MarsSurvival/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.27-12.36.44:329][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.27-12.36.44:329][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal/Epic-MegaJam/MarsSurvival/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.27-12.36.44:329][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.27-12.36.44:342][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.27-12.36.44:342][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.27-12.36.44:342][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.27-12.36.44:351][  0]LogDerivedDataCache: Speed tests for C:/Users/Max/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.08.27-12.36.44:351][  0]LogDerivedDataCache: Display: Performance to C:/Users/Max/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1075.65MBs, RandomWriteSpeed=120.23MBs. Assigned SpeedClass 'Local'
+[2021.08.27-12.36.44:365][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Max/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.27-12.36.44:365][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.27-12.36.44:365][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.27-12.36.44:464][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.27-12.36.44:464][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.27-12.36.44:507][  0]LogAssetRegistry: FAssetRegistry took 0.0046 seconds to start up
+[2021.08.27-12.36.44:832][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.27-12.36.44:832][  0]LogInit: Active device profile: [0000021E42D33700][0000021E43EB3400 49] Windows
+[2021.08.27-12.36.44:833][  0]LogInit: Profiles: [0000021E42D33700][0000021E43EB3400 49] Windows, [0000021E42D38A00][0000021E43EC1580 49] WindowsNoEditor, [0000021E42D30B00][0000021E43EB76C0 49] WindowsServer, [0000021E42D3B000][0000021E43EC5800 49] WindowsClient, [0000021E42D32F00][0000021E43EC9940 49] IOS, [0000021E42D39300][0000021E43ED1AC0 49] iPadAir, [0000021E42D31200][0000021E43ED5C40 49] iPadAir2, [0000021E450B4A00][0000021E43EE2240 49] IPadPro, [0000021E450B4B00][0000021E43ED8280 49] iPadAir3, [0000021E42D32A00][0000021E43F18400 49] iPadAir4, [0000021E450B7900][0000021E43F1C580 49] iPadMini2, [0000021E42D31600][0000021E43F20700 49] iPadMini3, [0000021E450B5F00][0000021E425F2880 49] iPadMini4, [0000021E42D33B00][0000021E425F6A00 49] iPadMini5, [0000021E42D38600][0000021E425FECC0 49] iPhone6, [0000021E42D39C00][0000021E425FAD00 49] iPodTouch6, [0000021E450B7200][0000021E42606FC0 49] iPhone7, [0000021E44FFFF00][0000021E42603000 49] iPodTouch7, [0000021E42D3B900][0000021E4260B180 49] iPhone5S, [0000021E44FFD000][0000021E4260F300 49] iPhone6Plus, [0000021E42D39000][0000021E42613480 49] iPhone6S, [0000021E44FFEB00][0000021E42617600 49] iPhone6SPlus, [0000021E42D38400][0000021E43ECD740 49] iPhone7Plus, [0000021E44FFD700][0000021E4261B880 49] iPhoneSE, [0000021E42D3BC00][0000021E4261F9C0 49] iPhone8, [0000021E44FFFB00][0000021E42627B40 49] iPhone8Plus, [0000021E42D39D00][0000021E4262BCC0 49] iPhoneX, [0000021E44FFCA00][0000021E4262E180 49] iPhoneXS, [0000021E42D3B400][0000021E42632300 49] iPhoneXSMax, [0000021E44FFEE00][0000021E42636480 49] iPhoneXR, [0000021E42D3A900][0000021E4263A600 49] iPhone11, [0000021E44FFF700][0000021E4263E780 49] iPhone11Pro, [0000021E42D3B100][0000021E42642900 49] iPhone11ProMax, [0000021E44FFFE00][0000021E427CAA80 49] iPhoneSE2, [0000021E42D38D00][0000021E427CEC00 49] iPhone12Mini, [0000021E44FFC800][0000021E427D2D80 49] iPhone12, [0000021E42D39700][0000021E427D6F00 49] iPhone12Pro, [0000021E44FFE300][0000021E427DB080 49] iPhone12ProMax, [0000021E42D38800][0000021E427DF200 49] iPadPro105, [0000021E44FFF000][0000021E427E3380 49] iPadPro129, [0000021E42D3BD00][0000021E427E7500 49] iPadPro97, [0000021E44FFE500][0000021E427EB680 49] iPadPro2_129, [0000021E42D39200][0000021E426237C0 49] iPad5, [0000021E44FFCC00][0000021E427EF900 49] iPad6, [0000021E42D39B00][0000021E427F3A40 49] iPad7, [0000021E44FFFC00][0000021E427F7B80 49] iPad8, [0000021E42D39500][0000021E427FFD00 49] iPadPro11, [0000021E44FFF100][0000021E428021C0 49] iPadPro2_11, [0000021E42D3A600][0000021E42806340 49] iPadPro3_129, [0000021E44FFDF00][0000021E4280A4C0 49] iPadPro4_129, [0000021E42D38200][0000021E4280E640 49] AppleTV, [0000021E44FFF600][0000021E428127C0 49] AppleTV4K, [0000021E42D38C00][0000021E42816940 49] TVOS, [0000021E44FFEA00][0000021E4281AAC0 49] Mac, [0000021E42D39600][0000021E4281EC40 49] MacClient, [0000021E44FFF900][0000021E42822DC0 49] MacNoEditor, [0000021E42D38B00][0000021E42826F40 49] MacServer, [0000021E44FFE900][0000021E4282B0C0 49] Linux, [0000021E42D3AA00][0000021E4282F240 49] LinuxAArch64, [0000021E44FFC700][0000021E428333C0 49] LinuxNoEditor, [0000021E42D3B500][0000021E42837540 49] LinuxAArch64NoEditor, [0000021E44FFCB00][0000021E4283B6C0 49] LinuxClient, [0000021E42D3A500][0000021E427FB800 49] LinuxAArch64Client, [0000021E44FFD500][0000021E43FD7940 49] LinuxServer, [0000021E42D38E00][0000021E43FDBA80 49] LinuxAArch64Server, [0000021E42EA4700][0000021E43FDFBC0 49] Android, [0000021E450B4E00][0000021E43FE7D40 49] Android_Low, [0000021E42EA4100][0000021E43FEA200 49] Android_Mid, [0000021E450B6600][0000021E43FEE380 49] Android_High, [0000021E42EA4500][0000021E43FF2500 49] Android_Default, [0000021E450B7000][0000021E43FF6680 49] Android_Adreno4xx, [0000021E42EA5F00][0000021E43FFA800 49] Android_Adreno5xx_Low, [0000021E450B5500][0000021E43FFE980 49] Android_Adreno5xx, [0000021E42EA5B00][0000021E44002B00 49] Android_Adreno6xx, [0000021E450B5800][0000021E44006C80 49] Android_Adreno6xx_Vulkan, [0000021E42EA4C00][0000021E4400AE00 49] Android_Mali_T6xx, [0000021E450B6B00][0000021E4400EF80 49] Android_Mali_T7xx, [0000021E42EA4A00][0000021E44013100 49] Android_Mali_T8xx, [0000021E450B5100][0000021E44017280 49] Android_Mali_G71, [0000021E42EA5800][0000021E4401B400 49] Android_Mali_G72, [0000021E450B7300][0000021E4401F580 49] Android_Mali_G72_Vulkan, [0000021E42EA4800][0000021E44023700 49] Android_Mali_G76, [0000021E44FFF400][0000021E44027880 49] Android_Mali_G76_Vulkan, [0000021E42D39400][0000021E43FE39C0 49] Android_Mali_G77, [0000021E44FFE600][0000021E4402BB00 49] Android_Mali_G77_Vulkan, [0000021E42D38900][0000021E4402FC40 49] Android_Vulkan_SM5, [0000021E44FFEF00][0000021E44036100 49] Android_PowerVR_G6xxx, [0000021E42D3AD00][0000021E4403A280 49] Android_PowerVR_GT7xxx, [0000021E44FFD400][0000021E4403E400 49] Android_PowerVR_GE8xxx, [0000021E42D3A000][0000021E44042580 49] Android_PowerVR_GM9xxx, [0000021E44FFCD00][0000021E44046700 49] Android_PowerVR_GM9xxx_Vulkan, [0000021E42D3AF00][0000021E4404A880 49] Android_TegraK1, [0000021E44FFD900][0000021E4404EA00 49] Android_Unknown_Vulkan, [0000021E42D39800][0000021E44052B80 49] Lumin, [0000021E44FFFA00][0000021E44056D00 49] Lumin_Desktop, [0000021E42D3AB00][0000021E4405AE80 49] HoloLens, 
+[2021.08.27-12.36.44:905][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.27-12.36.44:905][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.27-12.36.44:906][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.27-12.36.44:906][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.27-12.36.44:906][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.27-12.36.45:029][  0]LogNetVersion: MarsSurvival 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1927569106)
+[2021.08.27-12.36.45:574][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.27-12.36.45:630][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.055455 seconds
+[2021.08.27-12.36.45:637][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.08.27-12.36.45:637][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.08.27-12.36.45:637][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.27-12.36.46:152][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.27-12.36.46:172][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.27-12.36.46:277][  0]SourceControl: Source control is disabled
+[2021.08.27-12.36.46:277][  0]SourceControl: Source control is disabled
+[2021.08.27-12.36.46:281][  0]SourceControl: Source control is disabled
+[2021.08.27-12.36.46:287][  0]SourceControl: Source control is disabled
+[2021.08.27-12.36.46:301][  0]SourceControl: Source control is disabled
+[2021.08.27-12.36.46:304][  0]LogUProjectInfo: Found projects:
+[2021.08.27-12.36.46:597][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.27-12.36.46:618][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.27-12.36.46:618][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.27-12.36.46:674][  0]LogCollectionManager: Loaded 0 collections in 0.000646 seconds
+[2021.08.27-12.36.46:701][  0]LogFileCache: Scanning file cache for directory 'X:/Unreal/Epic-MegaJam/MarsSurvival/Saved/Collections/' took 0.00s
+[2021.08.27-12.36.46:701][  0]LogFileCache: Scanning file cache for directory 'X:/Unreal/Epic-MegaJam/MarsSurvival/Content/Developers/Max/Collections/' took 0.00s
+[2021.08.27-12.36.46:701][  0]LogFileCache: Scanning file cache for directory 'X:/Unreal/Epic-MegaJam/MarsSurvival/Content/Collections/' took 0.00s
+[2021.08.27-12.36.46:701][  0]LogOcInput: OculusInput pre-init called
+[2021.08.27-12.36.46:975][  0]LogEngine: Initializing Engine...
+[2021.08.27-12.36.47:313][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.08.27-12.36.47:313][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.27-12.36.47:314][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.27-12.36.47:432][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.27-12.36.47:440][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.27-12.36.47:458][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.27-12.36.47:463][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.27-12.36.47:463][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.27-12.36.47:463][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.27-12.36.47:463][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.27-12.36.47:463][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.27-12.36.47:463][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.27-12.36.47:463][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.27-12.36.47:463][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.27-12.36.47:463][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.27-12.36.47:463][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.27-12.36.47:463][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.27-12.36.47:463][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.27-12.36.47:509][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.27-12.36.47:509][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.27-12.36.47:509][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.27-12.36.47:509][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.27-12.36.47:509][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.08.27-12.36.47:509][  0]LogAudioMixer: Display: 5: BackRight
+[2021.08.27-12.36.47:509][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.08.27-12.36.47:509][  0]LogAudioMixer: Display: 7: SideRight
+[2021.08.27-12.36.47:746][  0]LogAudioMixer: Display: Using Audio Device Kopfhörer (2- CORSAIR VOID ELITE Wireless Gaming Headset)
+[2021.08.27-12.36.47:746][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.27-12.36.47:748][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.27-12.36.47:748][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.27-12.36.47:749][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.27-12.36.47:749][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.27-12.36.47:749][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.27-12.36.47:750][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.27-12.36.47:750][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.27-12.36.47:750][  0]LogInit: FAudioDevice initialized.
+[2021.08.27-12.36.47:750][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.27-12.36.47:750][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.27-12.36.47:843][  0]LogDerivedDataCache: Saved boot cache 0.09s 81MB C:/Users/Max/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.27-12.36.47:843][  0]LogInit: Texture streaming: Enabled
+[2021.08.27-12.36.47:862][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.27-12.36.47:867][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.27-12.36.47:867][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.27-12.36.47:870][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.27-12.36.48:007][  0]LogInit: Transaction tracking system initialized
+[2021.08.27-12.36.48:034][  0]BlueprintLog: New page: Editor Load
+[2021.08.27-12.36.48:136][  0]LocalizationService: Localization service is disabled
+[2021.08.27-12.36.48:168][  0]TimingProfiler: Initialize
+[2021.08.27-12.36.48:168][  0]TimingProfiler: OnSessionChanged
+[2021.08.27-12.36.48:168][  0]LoadingProfiler: Initialize
+[2021.08.27-12.36.48:169][  0]LoadingProfiler: OnSessionChanged
+[2021.08.27-12.36.48:169][  0]NetworkingProfiler: Initialize
+[2021.08.27-12.36.48:169][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.27-12.36.48:169][  0]MemoryProfiler: Initialize
+[2021.08.27-12.36.48:169][  0]MemoryProfiler: OnSessionChanged
+[2021.08.27-12.36.48:334][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.27-12.36.48:334][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.27-12.36.48:440][  0]LogFileCache: Scanning file cache for directory 'X:/Unreal/Epic-MegaJam/MarsSurvival/Content/' took 0.00s
+[2021.08.27-12.36.48:710][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.27-12.36.48:715][  0]SourceControl: Source control is disabled
+[2021.08.27-12.36.48:715][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.681
+[2021.08.27-12.36.48:716][  0]Cmd: MAP LOAD FILE="../../../../../Unreal/Epic-MegaJam/MarsSurvival/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.27-12.36.48:716][  0]LightingResults: New page: Lighting Build
+[2021.08.27-12.36.48:716][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-12.36.48:717][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.36.48:717][  0]MapCheck: New page: Map Check
+[2021.08.27-12.36.48:717][  0]LightingResults: New page: Lighting Build
+[2021.08.27-12.36.48:726][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.08.27-12.36.49:702][  0]LogTexture: Display: Building textures: DeprecatedTextureFA79271141B0C16E0AB806B8FE9AB1E1 (BGRA8, 128X128)
+[2021.08.27-12.36.49:918][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2021.08.27-12.36.49:919][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.27-12.36.50:053][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.27-12.36.50:109][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.08.27-12.36.50:116][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.08.27-12.36.50:117][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.27-12.36.50:117][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,109ms to complete.
+[2021.08.27-12.36.50:117][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 1.401
+[2021.08.27-12.36.50:119][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.085
+[2021.08.27-12.36.50:255][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-12.36.50:260][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-12.36.50:265][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-12.36.50:271][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-12.36.50:288][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0120 seconds. Added 3601 classes and 859 folders.
+[2021.08.27-12.36.50:290][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.27-12.36.50:292][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.27-12.36.50:292][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:292][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.27-12.36.50:292][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.08.27-12.36.50:293][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.27-12.36.50:293][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:293][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.27-12.36.50:293][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.08.27-12.36.50:294][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.27-12.36.50:294][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:294][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.27-12.36.50:294][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.08.27-12.36.50:294][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.27-12.36.50:294][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:294][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.27-12.36.50:294][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.08.27-12.36.50:295][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.27-12.36.50:295][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:295][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.27-12.36.50:295][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.08.27-12.36.50:296][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.27-12.36.50:296][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:296][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.27-12.36.50:296][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.08.27-12.36.50:297][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.27-12.36.50:297][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:297][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.27-12.36.50:297][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.08.27-12.36.50:297][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.27-12.36.50:297][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:298][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.27-12.36.50:298][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.08.27-12.36.50:298][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.27-12.36.50:298][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:298][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.27-12.36.50:298][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.08.27-12.36.50:299][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.27-12.36.50:299][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:299][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.27-12.36.50:299][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.08.27-12.36.50:299][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.27-12.36.50:299][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:299][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.27-12.36.50:299][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.08.27-12.36.50:300][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.27-12.36.50:300][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:300][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.27-12.36.50:300][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.08.27-12.36.50:300][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.27-12.36.50:300][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:300][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.27-12.36.50:300][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.08.27-12.36.50:301][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.27-12.36.50:301][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:301][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.27-12.36.50:301][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.08.27-12.36.50:301][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.27-12.36.50:301][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:301][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.27-12.36.50:301][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.08.27-12.36.50:302][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.27-12.36.50:302][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:302][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.27-12.36.50:302][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.08.27-12.36.50:302][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.27-12.36.50:302][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:302][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.27-12.36.50:302][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.08.27-12.36.50:303][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.27-12.36.50:303][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:303][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.27-12.36.50:303][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.08.27-12.36.50:303][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.27-12.36.50:303][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:303][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.27-12.36.50:303][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.08.27-12.36.50:304][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.27-12.36.50:304][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:304][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.27-12.36.50:304][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.08.27-12.36.50:304][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.27-12.36.50:304][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:304][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.27-12.36.50:304][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.08.27-12.36.50:305][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.27-12.36.50:305][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:305][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.27-12.36.50:305][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.08.27-12.36.50:305][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.27-12.36.50:305][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:305][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.27-12.36.50:305][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.08.27-12.36.50:306][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.27-12.36.50:306][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:306][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.27-12.36.50:306][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.08.27-12.36.50:306][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.27-12.36.50:306][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:306][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.27-12.36.50:306][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.08.27-12.36.50:307][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.27-12.36.50:307][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.27-12.36.50:307][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.27-12.36.50:307][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.08.27-12.36.50:344][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.27-12.36.50:345][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.08.27-12.36.50:388][  0]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.27-12.36.50:391][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.27-12.36.50:397][  0]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.27-12.36.50:517][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2021.08.27-12.36.50:809][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.08.27-12.36.50:809][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2021.08.27-12.36.50:809][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2021.08.27-12.36.50:809][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.08.27-12.36.50:809][  0]LogLoad: (Engine Initialization) Total time: 11.77 seconds
+[2021.08.27-12.36.50:809][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.27-12.36.50:809][  0]LogInit: First time updating LLM stats...
+[2021.08.27-12.36.50:855][  0]LogAssetRegistry: Asset discovery search completed in 6.3499 seconds
+[2021.08.27-12.36.50:857][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.08.27-12.36.50:906][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.27-12.36.51:059][  2]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.27-12.37.05:305][329]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.27-12.37.05:310][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.27-12.37.05:310][329]PIE: New page: PIE session: TopDownExampleMap (27.08.2021, 16:37:05)
+[2021.08.27-12.37.05:311][329]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.08.27-12.37.05:313][329]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.08.27-12.37.05:313][329]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-12.37.05:332][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018882s)
+[2021.08.27-12.37.05:334][329]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.27-12.37.05:334][329]LogPlayLevel: PIE: World Init took: (0.002388s)
+[2021.08.27-12.37.05:334][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.021640s)
+[2021.08.27-12.37.05:345][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.08.27-12.37.05:346][329]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.08.27-12.37.05:346][329]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.27-12.37.05:346][329]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.27-12.37.05:346][329]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.27-12.37.05:346][329]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.27-12.37.05:346][329]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.27-12.37.05:346][329]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.27-12.37.05:346][329]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.27-12.37.05:346][329]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.27-12.37.05:347][329]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.27-12.37.05:347][329]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.27-12.37.05:368][329]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.27-12.37.05:368][329]LogAudioMixer: Display: 1: FrontRight
+[2021.08.27-12.37.05:368][329]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.27-12.37.05:369][329]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.27-12.37.05:369][329]LogAudioMixer: Display: 4: BackLeft
+[2021.08.27-12.37.05:369][329]LogAudioMixer: Display: 5: BackRight
+[2021.08.27-12.37.05:369][329]LogAudioMixer: Display: 6: SideLeft
+[2021.08.27-12.37.05:369][329]LogAudioMixer: Display: 7: SideRight
+[2021.08.27-12.37.05:626][329]LogAudioMixer: Display: Using Audio Device Kopfhörer (2- CORSAIR VOID ELITE Wireless Gaming Headset)
+[2021.08.27-12.37.05:627][329]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.27-12.37.05:627][329]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.27-12.37.05:627][329]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.27-12.37.05:627][329]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.27-12.37.05:628][329]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.27-12.37.05:628][329]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.27-12.37.05:642][329]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.27-12.37.05:642][329]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.27-12.37.05:642][329]LogInit: FAudioDevice initialized.
+[2021.08.27-12.37.05:642][329]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownExampleMap'.
+[2021.08.27-12.37.05:649][329]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.27-12.37.05:669][329]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.27-14.37.05
+[2021.08.27-12.37.05:670][329]LogWorld: Bringing up level for play took: 0.019765
+[2021.08.27-12.37.05:670][329]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.08.27-12.37.06:200][329]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2021.08.27-12.37.06:261][329]PIE: Server logged in
+[2021.08.27-12.37.06:263][329]PIE: Play in editor total start time 0,955 seconds.
+[2021.08.27-12.37.38:999][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-12.37.38:999][ 48]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-12.37.38:999][ 48]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-12.37.39:000][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.37.39:010][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.27-12.37.39:012][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.37.39:016][ 48]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.27-12.37.39:017][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-12.37.39:018][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-12.37.39:033][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-12.37.39:035][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.08.27-12.37.39:074][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.08.27-12.37.47:799][ 79]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.08.27-12.37.49:694][249]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.27-12.39.21:290][921]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.27-12.39.21:294][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.27-12.39.21:294][921]PIE: New page: PIE session: TopDownExampleMap (27.08.2021, 16:39:21)
+[2021.08.27-12.39.21:328][921]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-12.39.21:340][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011718s)
+[2021.08.27-12.39.21:342][921]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.27-12.39.21:342][921]LogPlayLevel: PIE: World Init took: (0.002598s)
+[2021.08.27-12.39.21:343][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014632s)
+[2021.08.27-12.39.21:350][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.08.27-12.39.21:350][921]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.08.27-12.39.21:350][921]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.27-12.39.21:350][921]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.27-12.39.21:350][921]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.27-12.39.21:350][921]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.27-12.39.21:350][921]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.27-12.39.21:350][921]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.27-12.39.21:350][921]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.27-12.39.21:351][921]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.27-12.39.21:351][921]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.27-12.39.21:351][921]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.27-12.39.21:369][921]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.27-12.39.21:369][921]LogAudioMixer: Display: 1: FrontRight
+[2021.08.27-12.39.21:369][921]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.27-12.39.21:369][921]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.27-12.39.21:369][921]LogAudioMixer: Display: 4: BackLeft
+[2021.08.27-12.39.21:369][921]LogAudioMixer: Display: 5: BackRight
+[2021.08.27-12.39.21:369][921]LogAudioMixer: Display: 6: SideLeft
+[2021.08.27-12.39.21:369][921]LogAudioMixer: Display: 7: SideRight
+[2021.08.27-12.39.21:643][921]LogAudioMixer: Display: Using Audio Device Kopfhörer (2- CORSAIR VOID ELITE Wireless Gaming Headset)
+[2021.08.27-12.39.21:644][921]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.27-12.39.21:644][921]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.27-12.39.21:644][921]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.27-12.39.21:644][921]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.27-12.39.21:644][921]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.27-12.39.21:644][921]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.27-12.39.21:657][921]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.27-12.39.21:657][921]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.27-12.39.21:657][921]LogInit: FAudioDevice initialized.
+[2021.08.27-12.39.21:657][921]LogAudio: Display: Audio Device (ID: 3) registered with world 'TopDownExampleMap'.
+[2021.08.27-12.39.21:669][921]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.27-12.39.21:672][921]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.27-14.39.21
+[2021.08.27-12.39.21:672][921]LogWorld: Bringing up level for play took: 0.003028
+[2021.08.27-12.39.21:673][921]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.08.27-12.39.21:675][921]PIE: Server logged in
+[2021.08.27-12.39.21:676][921]PIE: Play in editor total start time 0,383 seconds.
+[2021.08.27-12.39.58:730][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-12.39.58:730][326]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-12.39.58:730][326]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-12.39.58:731][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.39.58:743][326]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.27-12.39.58:794][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.39.58:800][326]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.27-12.39.58:800][326]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-12.39.58:801][326]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-12.39.58:818][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-12.39.58:820][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.08.27-12.39.58:863][327]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.08.27-12.40.42:788][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall5)
+[2021.08.27-12.40.43:326][989]Cmd: DELETE
+[2021.08.27-12.40.43:326][989]Cmd: ACTOR DELETE
+[2021.08.27-12.40.43:346][989]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.27-12.40.43:352][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.08.27-12.40.43:353][989]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.08.27-12.40.43:974][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2021.08.27-12.40.44:276][ 93]Cmd: DELETE
+[2021.08.27-12.40.44:276][ 93]Cmd: ACTOR DELETE
+[2021.08.27-12.40.44:278][ 93]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.27-12.40.44:283][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.08.27-12.40.44:284][ 93]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.08.27-12.40.46:605][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2021.08.27-12.40.46:826][359]Cmd: DELETE
+[2021.08.27-12.40.46:826][359]Cmd: ACTOR DELETE
+[2021.08.27-12.40.46:828][359]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.27-12.40.46:833][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.08.27-12.40.46:834][359]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.08.27-12.40.47:853][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2021.08.27-12.40.48:048][491]Cmd: DELETE
+[2021.08.27-12.40.48:048][491]Cmd: ACTOR DELETE
+[2021.08.27-12.40.48:052][491]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.27-12.40.48:058][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.08.27-12.40.48:059][491]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.08.27-12.40.51:464][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.41.17:037][149]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.27-12.41.17:042][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.27-12.41.17:042][149]PIE: New page: PIE session: TopDownExampleMap (27.08.2021, 16:41:17)
+[2021.08.27-12.41.17:088][149]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-12.41.17:101][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012954s)
+[2021.08.27-12.41.17:103][149]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.27-12.41.17:103][149]LogPlayLevel: PIE: World Init took: (0.001578s)
+[2021.08.27-12.41.17:103][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014867s)
+[2021.08.27-12.41.17:112][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.08.27-12.41.17:113][149]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.08.27-12.41.17:113][149]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.27-12.41.17:113][149]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.27-12.41.17:113][149]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.27-12.41.17:113][149]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.27-12.41.17:113][149]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.27-12.41.17:113][149]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.27-12.41.17:113][149]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.27-12.41.17:113][149]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.27-12.41.17:114][149]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.27-12.41.17:114][149]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.27-12.41.17:132][149]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.27-12.41.17:132][149]LogAudioMixer: Display: 1: FrontRight
+[2021.08.27-12.41.17:132][149]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.27-12.41.17:132][149]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.27-12.41.17:132][149]LogAudioMixer: Display: 4: BackLeft
+[2021.08.27-12.41.17:132][149]LogAudioMixer: Display: 5: BackRight
+[2021.08.27-12.41.17:132][149]LogAudioMixer: Display: 6: SideLeft
+[2021.08.27-12.41.17:132][149]LogAudioMixer: Display: 7: SideRight
+[2021.08.27-12.41.17:348][149]LogAudioMixer: Display: Using Audio Device Kopfhörer (2- CORSAIR VOID ELITE Wireless Gaming Headset)
+[2021.08.27-12.41.17:348][149]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.27-12.41.17:348][149]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.27-12.41.17:348][149]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.27-12.41.17:348][149]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.27-12.41.17:348][149]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.27-12.41.17:349][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.27-12.41.17:363][149]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.27-12.41.17:363][149]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.27-12.41.17:363][149]LogInit: FAudioDevice initialized.
+[2021.08.27-12.41.17:363][149]LogAudio: Display: Audio Device (ID: 4) registered with world 'TopDownExampleMap'.
+[2021.08.27-12.41.17:371][149]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.27-12.41.17:374][149]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.27-14.41.17
+[2021.08.27-12.41.17:374][149]LogWorld: Bringing up level for play took: 0.001827
+[2021.08.27-12.41.17:374][149]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.08.27-12.41.17:377][149]PIE: Server logged in
+[2021.08.27-12.41.17:378][149]PIE: Play in editor total start time 0,337 seconds.
+[2021.08.27-12.41.24:870][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-12.41.24:870][ 31]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-12.41.24:871][ 31]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-12.41.24:871][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.41.24:880][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.27-12.41.24:902][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.41.24:907][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-12.41.24:907][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-12.41.24:909][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-12.41.24:931][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.08.27-12.41.24:974][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.08.27-12.41.30:639][591]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2021.08.27-12.41.30:974][607]LogEditorViewport: Clicking on Actor (double click): LightmassImportanceVolume (LightmassImportanceVolume)
+[2021.08.27-12.41.47:022][402]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2021.08.27-12.41.49:236][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.41.50:064][747]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.08.27-12.41.53:580][140]Cmd: DELETE
+[2021.08.27-12.41.53:580][140]Cmd: ACTOR DELETE
+[2021.08.27-12.41.53:581][140]LogEditorActor: Deleted Actor: PostProcessVolume
+[2021.08.27-12.41.53:587][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.08.27-12.41.53:588][140]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.08.27-12.41.54:190][212]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2021.08.27-12.41.54:629][257]Cmd: DELETE
+[2021.08.27-12.41.54:629][257]Cmd: ACTOR DELETE
+[2021.08.27-12.41.54:631][257]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2021.08.27-12.41.54:638][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.08.27-12.41.54:639][257]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.08.27-12.41.56:192][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.41.56:640][490]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume)
+[2021.08.27-12.41.57:609][580]Cmd: DELETE
+[2021.08.27-12.41.57:609][580]Cmd: ACTOR DELETE
+[2021.08.27-12.41.57:612][580]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2021.08.27-12.41.57:619][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.08.27-12.41.57:621][580]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.08.27-12.41.57:623][580]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.08.27-12.41.58:877][716]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.27-12.41.58:881][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.27-12.41.58:881][716]PIE: New page: PIE session: TopDownExampleMap (27.08.2021, 16:41:58)
+[2021.08.27-12.41.58:907][716]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-12.41.58:919][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011316s)
+[2021.08.27-12.41.58:921][716]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.27-12.41.58:921][716]LogPlayLevel: PIE: World Init took: (0.002268s)
+[2021.08.27-12.41.58:921][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013912s)
+[2021.08.27-12.41.58:930][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.08.27-12.41.58:931][716]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.08.27-12.41.58:931][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.27-12.41.58:931][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.27-12.41.58:931][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.27-12.41.58:931][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.27-12.41.58:931][716]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.27-12.41.58:931][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.27-12.41.58:931][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.27-12.41.58:931][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.27-12.41.58:932][716]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.27-12.41.58:932][716]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.27-12.41.58:953][716]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.27-12.41.58:953][716]LogAudioMixer: Display: 1: FrontRight
+[2021.08.27-12.41.58:953][716]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.27-12.41.58:953][716]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.27-12.41.58:953][716]LogAudioMixer: Display: 4: BackLeft
+[2021.08.27-12.41.58:953][716]LogAudioMixer: Display: 5: BackRight
+[2021.08.27-12.41.58:953][716]LogAudioMixer: Display: 6: SideLeft
+[2021.08.27-12.41.58:953][716]LogAudioMixer: Display: 7: SideRight
+[2021.08.27-12.41.59:190][716]LogAudioMixer: Display: Using Audio Device Kopfhörer (2- CORSAIR VOID ELITE Wireless Gaming Headset)
+[2021.08.27-12.41.59:190][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.27-12.41.59:190][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.27-12.41.59:190][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.27-12.41.59:191][716]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.27-12.41.59:191][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.27-12.41.59:191][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.27-12.41.59:203][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.27-12.41.59:203][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.27-12.41.59:203][716]LogInit: FAudioDevice initialized.
+[2021.08.27-12.41.59:203][716]LogAudio: Display: Audio Device (ID: 5) registered with world 'TopDownExampleMap'.
+[2021.08.27-12.41.59:211][716]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.27-12.41.59:214][716]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.27-14.41.59
+[2021.08.27-12.41.59:215][716]LogWorld: Bringing up level for play took: 0.002857
+[2021.08.27-12.41.59:215][716]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.08.27-12.41.59:218][716]PIE: Server logged in
+[2021.08.27-12.41.59:220][716]PIE: Play in editor total start time 0,34 seconds.
+[2021.08.27-12.42.02:770][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-12.42.02:770][124]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-12.42.02:770][124]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-12.42.02:771][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.42.02:783][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.27-12.42.02:784][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.42.02:790][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-12.42.02:791][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-12.42.02:791][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-12.42.02:809][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.08.27-12.42.02:842][127]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.08.27-12.42.04:290][299]Cmd: TRANSACTION UNDO
+[2021.08.27-12.42.04:290][299]LogEditorTransaction: Undo Delete Actors
+[2021.08.27-12.42.04:335][299]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.27-12.42.24:059][302]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (22022560) to: (1048576) for RecastNavMesh /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.RecastNavMesh-Default
+[2021.08.27-12.42.27:419][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.42.29:763][518]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.27-12.42.29:770][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.27-12.42.29:770][518]PIE: New page: PIE session: TopDownExampleMap (27.08.2021, 16:42:29)
+[2021.08.27-12.42.29:799][518]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-12.42.30:875][518]LogPlayLevel: PIE: StaticDuplicateObject took: (1.076224s)
+[2021.08.27-12.42.30:876][518]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.27-12.42.30:877][518]LogPlayLevel: PIE: World Init took: (0.001852s)
+[2021.08.27-12.42.30:877][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (1.078393s)
+[2021.08.27-12.42.30:887][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.08.27-12.42.30:891][518]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.08.27-12.42.30:891][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.27-12.42.30:891][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.27-12.42.30:891][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.27-12.42.30:891][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.27-12.42.30:891][518]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.27-12.42.30:891][518]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.27-12.42.30:891][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.27-12.42.30:891][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.27-12.42.30:892][518]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.27-12.42.30:892][518]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.27-12.42.30:910][518]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.27-12.42.30:910][518]LogAudioMixer: Display: 1: FrontRight
+[2021.08.27-12.42.30:910][518]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.27-12.42.30:910][518]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.27-12.42.30:910][518]LogAudioMixer: Display: 4: BackLeft
+[2021.08.27-12.42.30:910][518]LogAudioMixer: Display: 5: BackRight
+[2021.08.27-12.42.30:910][518]LogAudioMixer: Display: 6: SideLeft
+[2021.08.27-12.42.30:910][518]LogAudioMixer: Display: 7: SideRight
+[2021.08.27-12.42.31:151][518]LogAudioMixer: Display: Using Audio Device Kopfhörer (2- CORSAIR VOID ELITE Wireless Gaming Headset)
+[2021.08.27-12.42.31:152][518]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.27-12.42.31:152][518]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.27-12.42.31:152][518]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.27-12.42.31:152][518]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.27-12.42.31:152][518]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.27-12.42.31:152][518]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.27-12.42.31:166][518]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.27-12.42.31:166][518]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.27-12.42.31:166][518]LogInit: FAudioDevice initialized.
+[2021.08.27-12.42.31:166][518]LogAudio: Display: Audio Device (ID: 6) registered with world 'TopDownExampleMap'.
+[2021.08.27-12.42.31:179][518]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.27-12.42.31:211][518]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.27-14.42.31
+[2021.08.27-12.42.31:211][518]LogWorld: Bringing up level for play took: 0.031656
+[2021.08.27-12.42.31:212][518]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.08.27-12.42.31:214][518]PIE: Server logged in
+[2021.08.27-12.42.31:215][518]PIE: Play in editor total start time 1,446 seconds.
+[2021.08.27-12.43.02:070][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-12.43.02:070][183]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-12.43.02:070][183]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-12.43.02:071][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.43.02:081][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.27-12.43.02:101][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.43.02:106][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-12.43.02:107][183]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-12.43.02:108][183]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-12.43.02:152][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.08.27-12.43.02:180][184]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.08.27-12.43.02:713][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.08.27-12.43.06:634][229]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/TopDownExampleMap105F302D4C2639989AC77EAE0B38C2F8.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.08.27-12.43.06:640][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../Unreal/Epic-MegaJam/MarsSurvival/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2021.08.27-12.43.06:785][229]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/TopDownExampleMap_BuiltDataFE34EAF64674CCD71156BC81C51A00EE.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.08.27-12.43.06:819][229]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.27-12.43.06:819][229]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.08.27-12.43.06:819][229]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.08.27-12.44.20:005][362]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.08.27-12.44.21:458][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.44.22:036][562]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.08.27-12.46.14:335][748]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.08.27-12.46.14:553][748]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
+[2021.08.27-12.46.15:614][748]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.27-12.46.32:218][408]LogSlate: Window 'TopDownCharacter' being destroyed
+[2021.08.27-12.46.32:231][408]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-12.46.32:231][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.48.59:733][ 18]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.08.27-12.49.10:582][ 18]LogSlate: Window 'Create Blank Blueprint Class' being destroyed
+[2021.08.27-12.49.10:615][ 18]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pistol.Pistol
+[2021.08.27-12.49.32:011][452]LogSlate: Window 'Pistol' being destroyed
+[2021.08.27-12.49.32:020][452]LogSlate: Window 'Pistol' being destroyed
+[2021.08.27-12.49.32:067][452]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-12.49.32:068][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.49.45:392][508]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.27-12.49.45:412][508]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.27-12.49.48:141][776]LogContentBrowser: Attempting asset rename: NewFolder -> Prefabs
+[2021.08.27-12.49.48:141][776]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.27-12.51.47:696][950]LogActorFactory: Actor Factory created Cube
+[2021.08.27-12.51.49:369][106]LogActorFactory: Actor Factory created Cube
+[2021.08.27-12.52.47:838][153]LogActorFactory: Actor Factory created Cube
+[2021.08.27-12.52.49:256][282]LogActorFactory: Actor Factory created Cube
+[2021.08.27-12.54.01:165][110]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube5)
+[2021.08.27-12.54.15:002][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.08.27-12.54.15:557][371]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube3)
+[2021.08.27-12.54.26:151][305]LogEditorViewport: Clicking on Actor (LMB): Character (pistol)
+[2021.08.27-12.54.28:986][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2021.08.27-12.54.34:072][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.54.34:530][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.54.35:246][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.54.35:702][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.54.36:323][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.54.36:762][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.54.47:980][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2021.08.27-12.54.49:413][746]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube5)
+[2021.08.27-12.54.57:063][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.54.57:902][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2021.08.27-12.55.22:070][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2021.08.27-12.55.22:268][798]Cmd: DELETE
+[2021.08.27-12.55.22:268][798]Cmd: ACTOR DELETE
+[2021.08.27-12.55.23:260][798]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.27-12.55.23:305][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.08.27-12.55.23:318][798]LogEditorActor: Deleted 1 Actors (1.049 secs)
+[2021.08.27-12.55.23:452][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.08.27-12.55.23:711][836]Cmd: DELETE
+[2021.08.27-12.55.23:711][836]Cmd: ACTOR DELETE
+[2021.08.27-12.55.24:724][836]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.27-12.55.24:742][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.08.27-12.55.24:743][836]LogEditorActor: Deleted 1 Actors (1.032 secs)
+[2021.08.27-12.55.25:081][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.55.26:396][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.08.27-12.55.30:372][ 10]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/TopDownExampleMap_Auto11F035A8E40B084A17D4C84A54DE6D3D1.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2021.08.27-12.55.30:373][ 10]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 3.996
+[2021.08.27-12.55.30:373][ 10]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 3.996
+[2021.08.27-12.55.32:683][223]Cmd: DELETE
+[2021.08.27-12.55.32:683][223]Cmd: ACTOR DELETE
+[2021.08.27-12.55.33:661][223]LogEditorActor: Deleted Actor: Character
+[2021.08.27-12.55.33:678][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.27-12.55.33:680][223]LogEditorActor: Deleted 1 Actors (0.997 secs)
+[2021.08.27-12.57.44:712][109]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.08.27-12.57.46:833][277]LogEditorViewport: Clicking on Actor (context menu): TopDownCharacter_C (TopDownCharacter)
+[2021.08.27-12.58.10:664][851]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.08.27-12.58.10:664][851]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.08.27-12.58.53:937][555]LogSlate: Window 'TopDownCharacter' being destroyed
+[2021.08.27-12.58.53:946][555]LogSlate: Window 'TopDownCharacter' being destroyed
+[2021.08.27-12.58.53:947][555]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-12.58.53:948][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.59.01:776][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.08.27-12.59.03:312][257]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-12.59.03:347][257]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Pistol.Pistol
+[2021.08.27-12.59.05:080][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.08.27-12.59.34:971][795]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.27-12.59.34:976][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.27-12.59.34:976][795]PIE: New page: PIE session: TopDownExampleMap (27.08.2021, 16:59:34)
+[2021.08.27-12.59.35:008][795]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-12.59.36:083][795]LogPlayLevel: PIE: StaticDuplicateObject took: (1.074726s)
+[2021.08.27-12.59.36:085][795]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.27-12.59.36:085][795]LogPlayLevel: PIE: World Init took: (0.002200s)
+[2021.08.27-12.59.36:085][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (1.077245s)
+[2021.08.27-12.59.36:117][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.08.27-12.59.36:123][795]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.08.27-12.59.36:123][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.27-12.59.36:123][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.27-12.59.36:123][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.27-12.59.36:123][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.27-12.59.36:123][795]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.27-12.59.36:123][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.27-12.59.36:123][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.27-12.59.36:123][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.27-12.59.36:124][795]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.27-12.59.36:124][795]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.27-12.59.36:140][795]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.27-12.59.36:140][795]LogAudioMixer: Display: 1: FrontRight
+[2021.08.27-12.59.36:140][795]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.27-12.59.36:140][795]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.27-12.59.36:140][795]LogAudioMixer: Display: 4: BackLeft
+[2021.08.27-12.59.36:140][795]LogAudioMixer: Display: 5: BackRight
+[2021.08.27-12.59.36:140][795]LogAudioMixer: Display: 6: SideLeft
+[2021.08.27-12.59.36:140][795]LogAudioMixer: Display: 7: SideRight
+[2021.08.27-12.59.36:368][795]LogAudioMixer: Display: Using Audio Device Kopfhörer (2- CORSAIR VOID ELITE Wireless Gaming Headset)
+[2021.08.27-12.59.36:369][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.27-12.59.36:369][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.27-12.59.36:369][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.27-12.59.36:369][795]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.27-12.59.36:369][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.27-12.59.36:369][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.27-12.59.36:384][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.27-12.59.36:384][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.27-12.59.36:384][795]LogInit: FAudioDevice initialized.
+[2021.08.27-12.59.36:384][795]LogAudio: Display: Audio Device (ID: 7) registered with world 'TopDownExampleMap'.
+[2021.08.27-12.59.36:395][795]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.27-12.59.36:435][795]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.27-14.59.36
+[2021.08.27-12.59.36:435][795]LogWorld: Bringing up level for play took: 0.039216
+[2021.08.27-12.59.36:435][795]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.08.27-12.59.36:438][795]PIE: Server logged in
+[2021.08.27-12.59.36:439][795]PIE: Play in editor total start time 1,464 seconds.
+[2021.08.27-12.59.46:110][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-12.59.46:110][931]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-12.59.46:110][931]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-12.59.46:111][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.59.46:117][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.27-12.59.46:161][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.59.46:176][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-12.59.46:177][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-12.59.46:178][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-12.59.46:235][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.08.27-12.59.46:281][932]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.08.27-13.00.21:249][221]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2021.08.27-13.00.38:250][181]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.08.27-13.02.33:956][224]LogSlate: Window 'TopDownCharacter' being destroyed
+[2021.08.27-13.02.33:963][224]LogSlate: Window 'TopDownCharacter' being destroyed
+[2021.08.27-13.02.33:964][224]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.02.33:964][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.02.34:028][224]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.27-13.02.34:028][224]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.02.34:028][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.03.20:376][525]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2021.08.27-13.03.20:383][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.08.27-13.03.23:750][525]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-13.03.23:855][525]LogUObjectGlobals: Force Deleting 31 Package(s):
+	Asset Name: /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+	Asset Name: /Game/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+	Asset Name: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+	Asset Name: /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+	Asset Name: /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2021.08.27-13.03.24:179][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:187][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:187][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:187][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:187][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:187][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:187][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:187][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:187][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:188][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:191][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:191][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:191][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:191][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:191][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:191][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:191][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:191][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:193][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:195][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:195][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:195][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:195][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:195][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:195][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:195][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:195][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:197][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:198][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:199][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:199][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:199][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:199][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:199][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:199][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:199][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:200][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:202][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:202][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:202][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:202][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:202][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:202][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:202][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:202][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:203][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:205][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:205][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:205][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:205][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:205][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:205][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:205][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:205][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:206][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:208][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:209][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:209][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:209][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:209][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:209][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:209][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:209][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:210][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:212][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:212][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:212][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:212][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:212][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:212][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:212][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:212][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:214][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:215][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:215][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:215][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:215][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:215][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:215][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:216][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:216][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:217][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:219][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:219][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:219][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:219][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:219][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:219][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:219][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:219][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:221][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:223][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:223][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:223][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:223][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:223][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:223][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:223][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:223][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:224][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:227][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:227][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:227][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:227][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:227][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:227][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:227][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:227][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:228][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:230][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:230][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:230][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:230][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:230][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:230][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:230][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:230][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:232][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:233][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:233][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:233][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:233][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:233][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:234][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:234][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:234][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:235][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:237][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:237][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:237][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:237][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:237][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:237][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:237][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:237][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:239][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:242][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:242][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:242][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:242][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:242][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:242][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:242][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:242][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:243][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:245][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:245][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:245][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:245][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:245][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:245][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:245][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:245][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:247][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:249][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:249][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:249][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:249][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:249][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:249][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:249][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:249][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:250][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:252][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:252][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:252][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:252][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:252][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:252][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:252][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:252][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:253][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:255][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:255][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:255][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:255][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:255][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:255][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:255][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:255][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:256][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:260][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:260][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:260][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:260][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:260][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:260][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:260][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:260][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:262][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:264][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:264][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:264][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:264][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:264][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:264][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:264][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:264][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.25:634][525]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.08.27-13.03.32:064][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.08.27-13.03.32:087][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.08.27-13.03.32:109][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.27-13.03.32:130][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.08.27-13.03.32:149][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.08.27-13.03.32:167][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.08.27-13.03.32:184][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.27-13.03.32:200][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.27-13.03.32:215][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.27-13.03.32:230][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.27-13.03.32:262][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.27-13.03.32:276][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.08.27-13.03.32:291][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.27-13.03.32:305][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.27-13.03.32:319][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.27-13.03.32:333][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.27-13.03.32:347][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.27-13.03.32:361][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.27-13.03.32:375][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.27-13.03.32:389][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.27-13.03.32:404][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.27-13.03.32:419][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.27-13.03.32:433][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.27-13.03.32:449][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.27-13.03.32:464][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.27-13.03.32:479][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.27-13.03.32:495][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.08.27-13.03.32:513][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.27-13.03.32:530][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.08.27-13.03.32:548][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.27-13.03.32:566][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.08.27-13.03.32:584][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.08.27-13.03.32:599][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.27-13.03.34:402][672]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.27-13.03.34:408][672]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.27-13.03.34:410][672]LogPlayLevel: [PlayLevel] Compiling TopDownCharacter before play...
+[2021.08.27-13.03.34:550][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.08.27-13.03.34:550][672]LogPlayLevel: PlayLevel: Blueprint regeneration took 142 ms (1 blueprints)
+[2021.08.27-13.03.34:551][672]PIE: New page: PIE session: TopDownExampleMap (27.08.2021, 17:03:34)
+[2021.08.27-13.03.34:598][672]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-13.03.35:622][672]LogPlayLevel: PIE: StaticDuplicateObject took: (1.023670s)
+[2021.08.27-13.03.35:623][672]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.27-13.03.35:624][672]LogPlayLevel: PIE: World Init took: (0.001682s)
+[2021.08.27-13.03.35:624][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (1.025625s)
+[2021.08.27-13.03.35:649][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.08.27-13.03.35:650][672]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.08.27-13.03.35:650][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.27-13.03.35:650][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.27-13.03.35:650][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.27-13.03.35:650][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.27-13.03.35:650][672]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.27-13.03.35:650][672]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.27-13.03.35:650][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.27-13.03.35:650][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.27-13.03.35:651][672]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.27-13.03.35:651][672]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.27-13.03.35:667][672]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.27-13.03.35:667][672]LogAudioMixer: Display: 1: FrontRight
+[2021.08.27-13.03.35:667][672]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.27-13.03.35:667][672]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.27-13.03.35:667][672]LogAudioMixer: Display: 4: BackLeft
+[2021.08.27-13.03.35:667][672]LogAudioMixer: Display: 5: BackRight
+[2021.08.27-13.03.35:667][672]LogAudioMixer: Display: 6: SideLeft
+[2021.08.27-13.03.35:667][672]LogAudioMixer: Display: 7: SideRight
+[2021.08.27-13.03.35:889][672]LogAudioMixer: Display: Using Audio Device Kopfhörer (2- CORSAIR VOID ELITE Wireless Gaming Headset)
+[2021.08.27-13.03.35:889][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.27-13.03.35:889][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.27-13.03.35:889][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.27-13.03.35:890][672]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.27-13.03.35:890][672]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.27-13.03.35:890][672]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.27-13.03.35:904][672]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.27-13.03.35:904][672]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.27-13.03.35:904][672]LogInit: FAudioDevice initialized.
+[2021.08.27-13.03.35:904][672]LogAudio: Display: Audio Device (ID: 8) registered with world 'TopDownExampleMap'.
+[2021.08.27-13.03.35:916][672]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.27-13.03.35:950][672]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.27-15.03.35
+[2021.08.27-13.03.35:950][672]LogWorld: Bringing up level for play took: 0.033529
+[2021.08.27-13.03.35:950][672]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.08.27-13.03.35:953][672]PIE: Server logged in
+[2021.08.27-13.03.35:954][672]PIE: Play in editor total start time 1,547 seconds.
+[2021.08.27-13.03.41:710][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-13.03.41:710][344]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-13.03.41:710][344]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.03.41:711][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.03.41:717][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.27-13.03.41:762][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.03.41:780][344]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.27-13.03.41:780][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-13.03.41:781][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-13.03.41:798][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-13.03.41:835][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.08.27-13.03.41:883][345]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.08.27-13.04.02:619][371]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.08.27-13.04.26:317][729]BlueprintLog: New page: Compile TopDownCharacter
+[2021.08.27-13.04.26:446][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.08.27-13.04.29:763][953]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.27-13.04.29:768][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.27-13.04.29:768][953]PIE: New page: PIE session: TopDownExampleMap (27.08.2021, 17:04:29)
+[2021.08.27-13.04.29:808][953]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-13.04.30:820][953]LogPlayLevel: PIE: StaticDuplicateObject took: (1.012414s)
+[2021.08.27-13.04.30:822][953]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.27-13.04.30:822][953]LogPlayLevel: PIE: World Init took: (0.001667s)
+[2021.08.27-13.04.30:822][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (1.014384s)
+[2021.08.27-13.04.30:850][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.08.27-13.04.30:851][953]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.08.27-13.04.30:852][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.27-13.04.30:852][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.27-13.04.30:852][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.27-13.04.30:852][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.27-13.04.30:852][953]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.27-13.04.30:852][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.27-13.04.30:852][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.27-13.04.30:852][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.27-13.04.30:852][953]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.27-13.04.30:852][953]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.27-13.04.30:866][953]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.27-13.04.30:866][953]LogAudioMixer: Display: 1: FrontRight
+[2021.08.27-13.04.30:867][953]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.27-13.04.30:867][953]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.27-13.04.30:867][953]LogAudioMixer: Display: 4: BackLeft
+[2021.08.27-13.04.30:867][953]LogAudioMixer: Display: 5: BackRight
+[2021.08.27-13.04.30:867][953]LogAudioMixer: Display: 6: SideLeft
+[2021.08.27-13.04.30:867][953]LogAudioMixer: Display: 7: SideRight
+[2021.08.27-13.04.31:084][953]LogAudioMixer: Display: Using Audio Device Kopfhörer (2- CORSAIR VOID ELITE Wireless Gaming Headset)
+[2021.08.27-13.04.31:084][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.27-13.04.31:084][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.27-13.04.31:084][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.27-13.04.31:085][953]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.27-13.04.31:085][953]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.27-13.04.31:085][953]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.27-13.04.31:100][953]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.27-13.04.31:100][953]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.27-13.04.31:100][953]LogInit: FAudioDevice initialized.
+[2021.08.27-13.04.31:100][953]LogAudio: Display: Audio Device (ID: 9) registered with world 'TopDownExampleMap'.
+[2021.08.27-13.04.31:117][953]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.27-13.04.31:163][953]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.27-15.04.31
+[2021.08.27-13.04.31:163][953]LogWorld: Bringing up level for play took: 0.044876
+[2021.08.27-13.04.31:164][953]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.08.27-13.04.31:166][953]PIE: Server logged in
+[2021.08.27-13.04.31:168][953]PIE: Play in editor total start time 1,4 seconds.
+[2021.08.27-13.04.46:150][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-13.04.46:150][655]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-13.04.46:151][655]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.04.46:151][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.04.46:165][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.27-13.04.46:209][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.04.46:229][655]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.27-13.04.46:229][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-13.04.46:231][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-13.04.46:247][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-13.04.46:283][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.08.27-13.04.46:322][656]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.08.27-13.04.54:541][419]LogEditorTransaction: Undo Delete current selection
+[2021.08.27-13.04.56:908][540]LogEditorTransaction: Undo Delete current selection
+[2021.08.27-13.06.13:737][635]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.27-13.06.13:744][635]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.27-13.06.13:746][635]LogPlayLevel: [PlayLevel] Compiling TopDownCharacter before play...
+[2021.08.27-13.06.13:879][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.08.27-13.06.13:881][635]LogPlayLevel: PlayLevel: Blueprint regeneration took 136 ms (1 blueprints)
+[2021.08.27-13.06.13:881][635]PIE: New page: PIE session: TopDownExampleMap (27.08.2021, 17:06:13)
+[2021.08.27-13.06.13:881][635]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-13.06.15:016][635]LogPlayLevel: PIE: StaticDuplicateObject took: (1.134550s)
+[2021.08.27-13.06.15:017][635]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.27-13.06.15:018][635]LogPlayLevel: PIE: World Init took: (0.001741s)
+[2021.08.27-13.06.15:018][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (1.136546s)
+[2021.08.27-13.06.15:047][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.08.27-13.06.15:048][635]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.08.27-13.06.15:048][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.27-13.06.15:048][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.27-13.06.15:048][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.27-13.06.15:048][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.27-13.06.15:048][635]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.27-13.06.15:048][635]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.27-13.06.15:048][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.27-13.06.15:048][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.27-13.06.15:049][635]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.27-13.06.15:049][635]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.27-13.06.15:062][635]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.27-13.06.15:062][635]LogAudioMixer: Display: 1: FrontRight
+[2021.08.27-13.06.15:062][635]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.27-13.06.15:062][635]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.27-13.06.15:062][635]LogAudioMixer: Display: 4: BackLeft
+[2021.08.27-13.06.15:062][635]LogAudioMixer: Display: 5: BackRight
+[2021.08.27-13.06.15:062][635]LogAudioMixer: Display: 6: SideLeft
+[2021.08.27-13.06.15:062][635]LogAudioMixer: Display: 7: SideRight
+[2021.08.27-13.06.15:273][635]LogAudioMixer: Display: Using Audio Device Kopfhörer (2- CORSAIR VOID ELITE Wireless Gaming Headset)
+[2021.08.27-13.06.15:273][635]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.27-13.06.15:273][635]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.27-13.06.15:274][635]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.27-13.06.15:274][635]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.27-13.06.15:274][635]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.27-13.06.15:274][635]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.27-13.06.15:291][635]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.27-13.06.15:291][635]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.27-13.06.15:291][635]LogInit: FAudioDevice initialized.
+[2021.08.27-13.06.15:292][635]LogAudio: Display: Audio Device (ID: 10) registered with world 'TopDownExampleMap'.
+[2021.08.27-13.06.15:306][635]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.27-13.06.15:347][635]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.27-15.06.15
+[2021.08.27-13.06.15:347][635]LogWorld: Bringing up level for play took: 0.039840
+[2021.08.27-13.06.15:348][635]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.08.27-13.06.15:351][635]PIE: Server logged in
+[2021.08.27-13.06.15:352][635]PIE: Play in editor total start time 1,609 seconds.
+[2021.08.27-13.06.19:899][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-13.06.19:899][134]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-13.06.19:899][134]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.06.19:900][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.06.19:909][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.27-13.06.19:956][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.06.19:979][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-13.06.19:979][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-13.06.19:980][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-13.06.20:035][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.08.27-13.06.20:078][135]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.08.27-13.06.21:313][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-13.06.21:567][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.08.27-13.06.25:491][288]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/TopDownExampleMap03401CEF4296E1332F79E8AC1285EEE8.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.08.27-13.06.25:497][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../Unreal/Epic-MegaJam/MarsSurvival/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2021.08.27-13.06.25:609][288]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/TopDownExampleMap_BuiltData812DC1DC4C3E935D2BA3C4916E53ED5D.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.08.27-13.06.25:637][288]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.27-13.06.25:637][288]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.08.27-13.06.25:637][288]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.08.27-13.08.41:258][318]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.08.27-13.08.41:344][319]LogEditorViewport: Clicking on Component (LMB): CameraComponent (VR_Camera)
+[2021.08.27-13.08.45:547][782]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera1)
+[2021.08.27-13.08.47:007][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-13.08.47:920][ 28]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.08.27-13.08.48:837][116]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.08.27-13.08.49:325][166]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.08.27-13.08.49:767][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-13.08.50:475][282]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.08.27-13.09.03:057][538]LogEditorViewport: Clicking on Component (LMB): CameraComponent (VR_Camera)
+[2021.08.27-13.09.36:801][598]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.27-13.09.36:814][598]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.27-13.09.39:249][875]LogContentBrowser: Attempting asset rename: NewFolder -> Guns
+[2021.08.27-13.09.39:249][875]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.27-13.09.49:453][419]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.08.27-13.09.49:469][419]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.08.27-13.09.49:486][419]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.08.27-13.09.57:723][223]LogContentBrowser: Attempting asset rename: NewBlueprint -> Gun_pistol
+[2021.08.27-13.09.57:731][223]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.08.27-13.10.02:024][635]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Prefabs/Guns/Gun_pistol.Gun_pistol
+[2021.08.27-13.10.02:572][636]LogRenderer: Reallocating scene render targets to support 1208x860 Format 10 NumSamples 1 (Frame:1).
+[2021.08.27-13.12.54:929][493]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.08.27-13.13.15:322][493]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.08.27-13.13.15:336][493]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.08.27-13.13.15:355][493]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.08.27-13.13.18:633][702]LogContentBrowser: Attempting asset rename: NewBlueprint -> gun
+[2021.08.27-13.13.18:637][702]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.08.27-13.13.20:070][788]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Geometry/Meshes/gun.gun
+[2021.08.27-13.13.31:340][503]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.13.31:340][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.13.34:354][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.08.27-13.13.35:817][703]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-13.13.35:922][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.08.27-13.13.40:596][ 79]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.08.27-13.13.46:922][ 79]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.08.27-13.13.46:948][ 79]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.08.27-13.13.46:962][ 79]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.08.27-13.13.49:914][256]LogContentBrowser: Attempting asset rename: NewBlueprint -> gun
+[2021.08.27-13.13.49:919][256]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.08.27-13.13.51:233][336]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Geometry/Meshes/gun.gun
+[2021.08.27-13.13.55:597][605]LogSlate: Window 'gun' being destroyed
+[2021.08.27-13.13.55:604][605]LogSlate: Window 'gun' being destroyed
+[2021.08.27-13.13.55:607][605]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.27-13.13.55:607][605]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.13.55:607][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.13.55:680][605]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.27-13.13.55:680][605]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.13.55:680][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.13.55:727][605]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.13.55:727][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.13.57:672][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.08.27-13.13.58:954][737]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-13.13.59:522][737]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Geometry/Meshes/gun.gun
+[2021.08.27-13.14.00:050][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.08.27-13.16.21:770][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.08.27-13.16.27:054][239]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/TopDownExampleMap_Auto2875E17F14E6C681AAFE62583E5D2E2A3.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2021.08.27-13.16.27:055][239]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 5.315
+[2021.08.27-13.16.27:055][239]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 5.315
+[2021.08.27-13.16.27:056][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([2] browsable assets)...
+[2021.08.27-13.16.27:056][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2021.08.27-13.16.27:082][239]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/TopDownCharacter_Auto2F5542F584CE89578E35F6486D31F0610.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto2.uasset'
+[2021.08.27-13.16.27:082][239]LogFileHelpers: Auto-saving content packages took 0.027
+[2021.08.27-13.37.37:180][473]AssetReimport: New page: Outstanding source content changes 17:37:37
+[2021.08.27-13.37.37:327][474]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 X:/Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.fbx)
+[2021.08.27-13.37.37:468][474]LogFbx: Loading FBX Scene from X:/Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.fbx
+[2021.08.27-13.37.37:558][474]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.27-13.37.41:836][474]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.27-13.37.42:850][474]LogStaticMesh: Building static mesh pistol_Cube...
+[2021.08.27-13.37.42:973][474]LogStaticMesh: Built static mesh [0.11s] /Game/Geometry/Meshes/pistol_Cube.pistol_Cube
+[2021.08.27-13.37.43:095][474]LogStaticMesh: Building static mesh pistol_Cube_001...
+[2021.08.27-13.37.43:096][474]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/pistol_Cube_001.pistol_Cube_001
+[2021.08.27-13.37.43:426][474]LogSlate: Took 0.031608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.27-13.37.43:865][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.08.27-13.37.46:901][585]AssetReimport: Importing new asset /Game/Geometry/Meshes/pistol.
+[2021.08.27-13.37.51:628][917]LogSlate: Window 'Message Log' being destroyed
+[2021.08.27-13.37.51:634][917]LogSlate: Window 'Message Log' being destroyed
+[2021.08.27-13.37.55:641][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.08.27-13.37.57:322][189]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-13.37.57:411][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.08.27-13.37.58:186][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.27-13.37.59:322][242]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-13.37.59:410][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.08.27-13.38.00:438][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.08.27-13.38.01:550][325]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-13.38.01:641][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.08.27-13.41.42:864][376]AssetReimport: New page: Outstanding source content changes 17:41:42
+[2021.08.27-13.41.43:235][376]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 X:/Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.fbx)
+[2021.08.27-13.41.43:243][376]LogFbx: Loading FBX Scene from X:/Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.fbx
+[2021.08.27-13.41.43:249][376]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.27-13.41.46:207][376]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.27-13.41.46:263][376]LogStaticMesh: Building static mesh pistol...
+[2021.08.27-13.41.46:265][376]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/pistol.pistol
+[2021.08.27-13.41.46:462][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/pistol" FILE="../../../../../Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.uasset" SILENT=true
+[2021.08.27-13.41.46:486][377]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/pistolD6EFD3B649B857E2801E34B49536D2E4.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.uasset'
+[2021.08.27-13.41.46:598][378]AssetCheck: New page: Asset Save: pistol
+[2021.08.27-13.41.46:598][378]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/pistol.pistol
+[2021.08.27-13.41.49:566][531]AssetReimport: Importing new asset /Game/Geometry/Meshes/pistol.
+[2021.08.27-13.41.53:571][924]LogSlate: Window 'Message Log' being destroyed
+[2021.08.27-13.41.53:577][924]LogSlate: Window 'Message Log' being destroyed
+[2021.08.27-13.41.55:183][ 38]LogActorFactory: Actor Factory created pistol
+[2021.08.27-13.41.56:002][ 88]LogActorFactory: Actor Factory created pistol
+[2021.08.27-13.42.21:498][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-13.42.26:390][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pistol)
+[2021.08.27-13.42.27:642][230]Cmd: DELETE
+[2021.08.27-13.42.27:642][230]Cmd: ACTOR DELETE
+[2021.08.27-13.42.28:602][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.27-13.42.28:624][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.08.27-13.42.28:636][230]LogEditorActor: Deleted 1 Actors (0.994 secs)
+[2021.08.27-13.42.36:983][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.08.27-13.42.38:595][765]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-13.42.38:730][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.08.27-13.42.38:763][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.08.27-13.42.38:783][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.27-13.43.04:741][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.27-13.43.08:801][977]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/TopDownExampleMap_Auto325CFF5D94BF9F62D676AEEBD0787BC0F.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap'
+[2021.08.27-13.43.08:803][977]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 4.080
+[2021.08.27-13.43.08:803][977]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 4.080
+[2021.08.27-13.50.55:021][521]AssetReimport: New page: Outstanding source content changes 17:50:55
+[2021.08.27-13.51.37:827][952]AssetReimport: New page: Outstanding source content changes 17:51:37
+[2021.08.27-13.51.37:828][952]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 X:/Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.fbx)
+[2021.08.27-13.51.37:836][952]LogFbx: Loading FBX Scene from X:/Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.fbx
+[2021.08.27-13.51.37:842][952]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.27-13.51.39:596][952]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.27-13.51.39:789][952]LogStaticMesh: Building static mesh pistol...
+[2021.08.27-13.51.39:795][952]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/pistol.pistol
+[2021.08.27-13.51.39:996][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/pistol" FILE="../../../../../Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.uasset" SILENT=true
+[2021.08.27-13.51.40:006][953]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/pistol7816392543F802104D374EA854F99B86.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.uasset'
+[2021.08.27-13.51.40:066][954]AssetCheck: New page: Asset Save: pistol
+[2021.08.27-13.51.40:066][954]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/pistol.pistol
+[2021.08.27-13.51.42:113][ 27]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2021.08.27-13.51.42:187][ 31]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.08.27-13.51.42:685][ 61]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.27-13.51.43:033][ 91]AssetReimport: Importing new asset /Game/Geometry/Meshes/pistol.
+[2021.08.27-13.51.43:058][ 94]LogSlate: Window 'Message Log' being destroyed
+[2021.08.27-13.51.43:071][ 94]LogSlate: Window 'Message Log' being destroyed
+[2021.08.27-13.51.43:600][139]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.08.27-13.51.45:867][254]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.08.27-13.51.47:014][351]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.27-13.51.48:416][491]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.27-13.51.49:591][535]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.27-13.51.49:785][547]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.27-13.51.49:842][547]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/pistol.pistol
+[2021.08.27-13.51.51:887][548]LogRenderer: Reallocating scene render targets to support 1296x880 Format 10 NumSamples 1 (Frame:1).
+[2021.08.27-13.52.15:357][388]LogSlate: Window 'pistol' being destroyed
+[2021.08.27-13.52.15:366][388]LogSlate: Window 'pistol' being destroyed
+[2021.08.27-13.52.15:370][388]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.52.15:370][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.52.17:024][533]LogActorFactory: Actor Factory created pistol
+[2021.08.27-13.52.17:960][601]LogActorFactory: Actor Factory created pistol
+[2021.08.27-13.52.34:356][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-13.52.35:185][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-13.52.35:588][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pistol)
+[2021.08.27-13.52.54:769][334]Cmd: SELECT NONE
+[2021.08.27-13.52.59:689][678]LogUObjectHash: Compacting FUObjectHashTables data took   9.32ms
+[2021.08.27-13.53.01:958][678]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-13.53.03:453][678]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Geometry/Meshes/pistol.pistol
+	Asset Name: /Game/Geometry/Meshes/Material_003.Material_003
+	Asset Name: /Game/Geometry/Meshes/Material_002.Material_002
+	Asset Name: /Game/Geometry/Meshes/Material_001.Material_001
+	Asset Name: /Game/Geometry/Meshes/Material.Material
+[2021.08.27-13.53.05:073][678]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.08.27-13.53.05:092][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.08.27-13.53.05:111][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.08.27-13.53.29:825][751]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.08.27-13.53.34:017][751]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/TopDownExampleMap_Auto4D520BD984E84B7F851B3F7B8B10932DC.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap'
+[2021.08.27-13.53.34:018][751]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 4.278
+[2021.08.27-13.53.34:018][751]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 4.278
