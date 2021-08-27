@@ -1730,3 +1730,66 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.27-13.06.25:637][288]AssetCheck: New page: Asset Save: multiple assets
 [2021.08.27-13.06.25:637][288]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
 [2021.08.27-13.06.25:637][288]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.08.27-13.08.41:258][318]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.08.27-13.08.41:344][319]LogEditorViewport: Clicking on Component (LMB): CameraComponent (VR_Camera)
+[2021.08.27-13.08.45:547][782]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera1)
+[2021.08.27-13.08.47:007][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-13.08.47:920][ 28]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.08.27-13.08.48:837][116]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.08.27-13.08.49:325][166]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.08.27-13.08.49:767][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-13.08.50:475][282]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.08.27-13.09.03:057][538]LogEditorViewport: Clicking on Component (LMB): CameraComponent (VR_Camera)
+[2021.08.27-13.09.36:801][598]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.27-13.09.36:814][598]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.27-13.09.39:249][875]LogContentBrowser: Attempting asset rename: NewFolder -> Guns
+[2021.08.27-13.09.39:249][875]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.27-13.09.49:453][419]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.08.27-13.09.49:469][419]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.08.27-13.09.49:486][419]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.08.27-13.09.57:723][223]LogContentBrowser: Attempting asset rename: NewBlueprint -> Gun_pistol
+[2021.08.27-13.09.57:731][223]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.08.27-13.10.02:024][635]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Prefabs/Guns/Gun_pistol.Gun_pistol
+[2021.08.27-13.10.02:572][636]LogRenderer: Reallocating scene render targets to support 1208x860 Format 10 NumSamples 1 (Frame:1).
+[2021.08.27-13.12.54:929][493]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.08.27-13.13.15:322][493]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.08.27-13.13.15:336][493]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.08.27-13.13.15:355][493]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.08.27-13.13.18:633][702]LogContentBrowser: Attempting asset rename: NewBlueprint -> gun
+[2021.08.27-13.13.18:637][702]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.08.27-13.13.20:070][788]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Geometry/Meshes/gun.gun
+[2021.08.27-13.13.31:340][503]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.13.31:340][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.13.34:354][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.08.27-13.13.35:817][703]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-13.13.35:922][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.08.27-13.13.40:596][ 79]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.08.27-13.13.46:922][ 79]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.08.27-13.13.46:948][ 79]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.08.27-13.13.46:962][ 79]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.08.27-13.13.49:914][256]LogContentBrowser: Attempting asset rename: NewBlueprint -> gun
+[2021.08.27-13.13.49:919][256]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.08.27-13.13.51:233][336]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Geometry/Meshes/gun.gun
+[2021.08.27-13.13.55:597][605]LogSlate: Window 'gun' being destroyed
+[2021.08.27-13.13.55:604][605]LogSlate: Window 'gun' being destroyed
+[2021.08.27-13.13.55:607][605]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.27-13.13.55:607][605]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.13.55:607][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.13.55:680][605]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.27-13.13.55:680][605]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.13.55:680][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.13.55:727][605]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.13.55:727][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.13.57:672][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.08.27-13.13.58:954][737]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-13.13.59:522][737]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Geometry/Meshes/gun.gun
+[2021.08.27-13.14.00:050][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.08.27-13.16.21:770][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.08.27-13.16.27:054][239]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/TopDownExampleMap_Auto2875E17F14E6C681AAFE62583E5D2E2A3.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2021.08.27-13.16.27:055][239]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 5.315
+[2021.08.27-13.16.27:055][239]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 5.315
+[2021.08.27-13.16.27:056][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([2] browsable assets)...
+[2021.08.27-13.16.27:056][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2021.08.27-13.16.27:082][239]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/TopDownCharacter_Auto2F5542F584CE89578E35F6486D31F0610.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto2.uasset'
+[2021.08.27-13.16.27:082][239]LogFileHelpers: Auto-saving content packages took 0.027
