@@ -1156,3 +1156,577 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.27-12.43.06:819][229]AssetCheck: New page: Asset Save: multiple assets
 [2021.08.27-12.43.06:819][229]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
 [2021.08.27-12.43.06:819][229]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.08.27-12.44.20:005][362]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.08.27-12.44.21:458][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.44.22:036][562]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.08.27-12.46.14:335][748]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.08.27-12.46.14:553][748]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
+[2021.08.27-12.46.15:614][748]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.27-12.46.32:218][408]LogSlate: Window 'TopDownCharacter' being destroyed
+[2021.08.27-12.46.32:231][408]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-12.46.32:231][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.48.59:733][ 18]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.08.27-12.49.10:582][ 18]LogSlate: Window 'Create Blank Blueprint Class' being destroyed
+[2021.08.27-12.49.10:615][ 18]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pistol.Pistol
+[2021.08.27-12.49.32:011][452]LogSlate: Window 'Pistol' being destroyed
+[2021.08.27-12.49.32:020][452]LogSlate: Window 'Pistol' being destroyed
+[2021.08.27-12.49.32:067][452]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-12.49.32:068][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.49.45:392][508]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.27-12.49.45:412][508]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.27-12.49.48:141][776]LogContentBrowser: Attempting asset rename: NewFolder -> Prefabs
+[2021.08.27-12.49.48:141][776]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.27-12.51.47:696][950]LogActorFactory: Actor Factory created Cube
+[2021.08.27-12.51.49:369][106]LogActorFactory: Actor Factory created Cube
+[2021.08.27-12.52.47:838][153]LogActorFactory: Actor Factory created Cube
+[2021.08.27-12.52.49:256][282]LogActorFactory: Actor Factory created Cube
+[2021.08.27-12.54.01:165][110]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube5)
+[2021.08.27-12.54.15:002][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.08.27-12.54.15:557][371]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube3)
+[2021.08.27-12.54.26:151][305]LogEditorViewport: Clicking on Actor (LMB): Character (pistol)
+[2021.08.27-12.54.28:986][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2021.08.27-12.54.34:072][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.54.34:530][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.54.35:246][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.54.35:702][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.54.36:323][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.54.36:762][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.54.47:980][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2021.08.27-12.54.49:413][746]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube5)
+[2021.08.27-12.54.57:063][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.54.57:902][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2021.08.27-12.55.22:070][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2021.08.27-12.55.22:268][798]Cmd: DELETE
+[2021.08.27-12.55.22:268][798]Cmd: ACTOR DELETE
+[2021.08.27-12.55.23:260][798]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.27-12.55.23:305][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.08.27-12.55.23:318][798]LogEditorActor: Deleted 1 Actors (1.049 secs)
+[2021.08.27-12.55.23:452][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.08.27-12.55.23:711][836]Cmd: DELETE
+[2021.08.27-12.55.23:711][836]Cmd: ACTOR DELETE
+[2021.08.27-12.55.24:724][836]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.27-12.55.24:742][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.08.27-12.55.24:743][836]LogEditorActor: Deleted 1 Actors (1.032 secs)
+[2021.08.27-12.55.25:081][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-12.55.26:396][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.08.27-12.55.30:372][ 10]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/TopDownExampleMap_Auto11F035A8E40B084A17D4C84A54DE6D3D1.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2021.08.27-12.55.30:373][ 10]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 3.996
+[2021.08.27-12.55.30:373][ 10]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 3.996
+[2021.08.27-12.55.32:683][223]Cmd: DELETE
+[2021.08.27-12.55.32:683][223]Cmd: ACTOR DELETE
+[2021.08.27-12.55.33:661][223]LogEditorActor: Deleted Actor: Character
+[2021.08.27-12.55.33:678][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.27-12.55.33:680][223]LogEditorActor: Deleted 1 Actors (0.997 secs)
+[2021.08.27-12.57.44:712][109]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2021.08.27-12.57.46:833][277]LogEditorViewport: Clicking on Actor (context menu): TopDownCharacter_C (TopDownCharacter)
+[2021.08.27-12.58.10:664][851]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.08.27-12.58.10:664][851]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.08.27-12.58.53:937][555]LogSlate: Window 'TopDownCharacter' being destroyed
+[2021.08.27-12.58.53:946][555]LogSlate: Window 'TopDownCharacter' being destroyed
+[2021.08.27-12.58.53:947][555]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-12.58.53:948][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.59.01:776][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.08.27-12.59.03:312][257]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-12.59.03:347][257]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Pistol.Pistol
+[2021.08.27-12.59.05:080][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.08.27-12.59.34:971][795]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.27-12.59.34:976][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.27-12.59.34:976][795]PIE: New page: PIE session: TopDownExampleMap (27.08.2021, 16:59:34)
+[2021.08.27-12.59.35:008][795]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-12.59.36:083][795]LogPlayLevel: PIE: StaticDuplicateObject took: (1.074726s)
+[2021.08.27-12.59.36:085][795]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.27-12.59.36:085][795]LogPlayLevel: PIE: World Init took: (0.002200s)
+[2021.08.27-12.59.36:085][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (1.077245s)
+[2021.08.27-12.59.36:117][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.08.27-12.59.36:123][795]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.08.27-12.59.36:123][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.27-12.59.36:123][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.27-12.59.36:123][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.27-12.59.36:123][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.27-12.59.36:123][795]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.27-12.59.36:123][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.27-12.59.36:123][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.27-12.59.36:123][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.27-12.59.36:124][795]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.27-12.59.36:124][795]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.27-12.59.36:140][795]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.27-12.59.36:140][795]LogAudioMixer: Display: 1: FrontRight
+[2021.08.27-12.59.36:140][795]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.27-12.59.36:140][795]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.27-12.59.36:140][795]LogAudioMixer: Display: 4: BackLeft
+[2021.08.27-12.59.36:140][795]LogAudioMixer: Display: 5: BackRight
+[2021.08.27-12.59.36:140][795]LogAudioMixer: Display: 6: SideLeft
+[2021.08.27-12.59.36:140][795]LogAudioMixer: Display: 7: SideRight
+[2021.08.27-12.59.36:368][795]LogAudioMixer: Display: Using Audio Device Kopfhörer (2- CORSAIR VOID ELITE Wireless Gaming Headset)
+[2021.08.27-12.59.36:369][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.27-12.59.36:369][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.27-12.59.36:369][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.27-12.59.36:369][795]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.27-12.59.36:369][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.27-12.59.36:369][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.27-12.59.36:384][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.27-12.59.36:384][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.27-12.59.36:384][795]LogInit: FAudioDevice initialized.
+[2021.08.27-12.59.36:384][795]LogAudio: Display: Audio Device (ID: 7) registered with world 'TopDownExampleMap'.
+[2021.08.27-12.59.36:395][795]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.27-12.59.36:435][795]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.27-14.59.36
+[2021.08.27-12.59.36:435][795]LogWorld: Bringing up level for play took: 0.039216
+[2021.08.27-12.59.36:435][795]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.08.27-12.59.36:438][795]PIE: Server logged in
+[2021.08.27-12.59.36:439][795]PIE: Play in editor total start time 1,464 seconds.
+[2021.08.27-12.59.46:110][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-12.59.46:110][931]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-12.59.46:110][931]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-12.59.46:111][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.59.46:117][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.27-12.59.46:161][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-12.59.46:176][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-12.59.46:177][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-12.59.46:178][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-12.59.46:235][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.08.27-12.59.46:281][932]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.08.27-13.00.21:249][221]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2021.08.27-13.00.38:250][181]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.08.27-13.02.33:956][224]LogSlate: Window 'TopDownCharacter' being destroyed
+[2021.08.27-13.02.33:963][224]LogSlate: Window 'TopDownCharacter' being destroyed
+[2021.08.27-13.02.33:964][224]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.02.33:964][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.02.34:028][224]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.27-13.02.34:028][224]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.02.34:028][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.03.20:376][525]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2021.08.27-13.03.20:383][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.08.27-13.03.23:750][525]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-13.03.23:855][525]LogUObjectGlobals: Force Deleting 31 Package(s):
+	Asset Name: /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+	Asset Name: /Game/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+	Asset Name: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+	Asset Name: /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+	Asset Name: /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2021.08.27-13.03.24:179][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:187][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:187][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:187][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:187][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:187][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:187][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:187][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:187][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:188][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:191][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:191][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:191][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:191][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:191][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:191][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:191][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:191][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:193][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:195][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:195][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:195][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:195][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:195][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:195][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:195][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:195][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:197][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:198][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:199][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:199][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:199][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:199][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:199][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:199][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:199][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:200][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:202][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:202][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:202][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:202][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:202][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:202][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:202][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:202][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:203][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:205][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:205][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:205][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:205][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:205][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:205][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:205][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:205][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:206][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:208][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:209][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:209][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:209][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:209][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:209][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:209][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:209][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:210][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:212][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:212][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:212][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:212][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:212][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:212][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:212][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:212][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:214][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:215][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:215][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:215][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:215][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:215][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:215][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:216][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:216][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:217][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:219][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:219][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:219][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:219][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:219][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:219][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:219][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:219][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:221][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:223][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:223][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:223][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:223][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:223][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:223][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:223][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:223][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:224][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:227][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:227][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:227][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:227][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:227][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:227][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:227][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:227][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:228][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:230][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:230][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:230][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:230][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:230][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:230][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:230][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:230][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:232][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:233][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:233][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:233][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:233][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:233][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:234][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:234][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:234][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:235][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:237][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:237][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:237][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:237][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:237][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:237][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:237][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:237][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:239][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:242][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:242][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:242][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:242][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:242][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:242][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:242][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:242][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:243][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:245][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:245][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:245][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:245][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:245][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:245][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:245][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:245][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:247][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:249][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:249][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:249][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:249][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:249][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:249][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:249][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:249][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:250][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:252][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:252][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:252][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:252][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:252][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:252][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:252][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:252][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:253][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:255][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:255][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:255][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:255][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:255][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:255][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:255][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:255][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:256][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:260][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:260][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:260][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:260][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:260][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:260][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:260][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:260][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.24:262][525]LogMaterial: Display: Missing cached shader map for material M_Male_Body, compiling. 
+[2021.08.27-13.03.24:264][525]LogMaterial: Warning: [AssetLog] X:\Unreal\Epic-MegaJam\MarsSurvival\Content\Mannequin\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.27-13.03.24:264][525]LogMaterial: Display: 	Missing Material Function
+[2021.08.27-13.03.24:264][525]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.27-13.03.24:264][525]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.08.27-13.03.24:264][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.08.27-13.03.24:264][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.27-13.03.24:264][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.08.27-13.03.24:264][525]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.08.27-13.03.25:634][525]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.08.27-13.03.32:064][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.08.27-13.03.32:087][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.08.27-13.03.32:109][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.27-13.03.32:130][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.08.27-13.03.32:149][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.08.27-13.03.32:167][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.08.27-13.03.32:184][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.27-13.03.32:200][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.27-13.03.32:215][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.27-13.03.32:230][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.27-13.03.32:262][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.27-13.03.32:276][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.08.27-13.03.32:291][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.27-13.03.32:305][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.27-13.03.32:319][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.27-13.03.32:333][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.27-13.03.32:347][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.27-13.03.32:361][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.27-13.03.32:375][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.27-13.03.32:389][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.08.27-13.03.32:404][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.27-13.03.32:419][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.27-13.03.32:433][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.27-13.03.32:449][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.27-13.03.32:464][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.08.27-13.03.32:479][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.27-13.03.32:495][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.08.27-13.03.32:513][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.27-13.03.32:530][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.08.27-13.03.32:548][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.27-13.03.32:566][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.08.27-13.03.32:584][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.08.27-13.03.32:599][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.27-13.03.34:402][672]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.27-13.03.34:408][672]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.27-13.03.34:410][672]LogPlayLevel: [PlayLevel] Compiling TopDownCharacter before play...
+[2021.08.27-13.03.34:550][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.08.27-13.03.34:550][672]LogPlayLevel: PlayLevel: Blueprint regeneration took 142 ms (1 blueprints)
+[2021.08.27-13.03.34:551][672]PIE: New page: PIE session: TopDownExampleMap (27.08.2021, 17:03:34)
+[2021.08.27-13.03.34:598][672]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-13.03.35:622][672]LogPlayLevel: PIE: StaticDuplicateObject took: (1.023670s)
+[2021.08.27-13.03.35:623][672]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.27-13.03.35:624][672]LogPlayLevel: PIE: World Init took: (0.001682s)
+[2021.08.27-13.03.35:624][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (1.025625s)
+[2021.08.27-13.03.35:649][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.08.27-13.03.35:650][672]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.08.27-13.03.35:650][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.27-13.03.35:650][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.27-13.03.35:650][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.27-13.03.35:650][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.27-13.03.35:650][672]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.27-13.03.35:650][672]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.27-13.03.35:650][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.27-13.03.35:650][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.27-13.03.35:651][672]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.27-13.03.35:651][672]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.27-13.03.35:667][672]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.27-13.03.35:667][672]LogAudioMixer: Display: 1: FrontRight
+[2021.08.27-13.03.35:667][672]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.27-13.03.35:667][672]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.27-13.03.35:667][672]LogAudioMixer: Display: 4: BackLeft
+[2021.08.27-13.03.35:667][672]LogAudioMixer: Display: 5: BackRight
+[2021.08.27-13.03.35:667][672]LogAudioMixer: Display: 6: SideLeft
+[2021.08.27-13.03.35:667][672]LogAudioMixer: Display: 7: SideRight
+[2021.08.27-13.03.35:889][672]LogAudioMixer: Display: Using Audio Device Kopfhörer (2- CORSAIR VOID ELITE Wireless Gaming Headset)
+[2021.08.27-13.03.35:889][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.27-13.03.35:889][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.27-13.03.35:889][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.27-13.03.35:890][672]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.27-13.03.35:890][672]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.27-13.03.35:890][672]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.27-13.03.35:904][672]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.27-13.03.35:904][672]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.27-13.03.35:904][672]LogInit: FAudioDevice initialized.
+[2021.08.27-13.03.35:904][672]LogAudio: Display: Audio Device (ID: 8) registered with world 'TopDownExampleMap'.
+[2021.08.27-13.03.35:916][672]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.27-13.03.35:950][672]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.27-15.03.35
+[2021.08.27-13.03.35:950][672]LogWorld: Bringing up level for play took: 0.033529
+[2021.08.27-13.03.35:950][672]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.08.27-13.03.35:953][672]PIE: Server logged in
+[2021.08.27-13.03.35:954][672]PIE: Play in editor total start time 1,547 seconds.
+[2021.08.27-13.03.41:710][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-13.03.41:710][344]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-13.03.41:710][344]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.03.41:711][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.03.41:717][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.27-13.03.41:762][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.03.41:780][344]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.27-13.03.41:780][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-13.03.41:781][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-13.03.41:798][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-13.03.41:835][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.08.27-13.03.41:883][345]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.08.27-13.04.02:619][371]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.08.27-13.04.26:317][729]BlueprintLog: New page: Compile TopDownCharacter
+[2021.08.27-13.04.26:446][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.08.27-13.04.29:763][953]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.27-13.04.29:768][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.27-13.04.29:768][953]PIE: New page: PIE session: TopDownExampleMap (27.08.2021, 17:04:29)
+[2021.08.27-13.04.29:808][953]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-13.04.30:820][953]LogPlayLevel: PIE: StaticDuplicateObject took: (1.012414s)
+[2021.08.27-13.04.30:822][953]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.27-13.04.30:822][953]LogPlayLevel: PIE: World Init took: (0.001667s)
+[2021.08.27-13.04.30:822][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (1.014384s)
+[2021.08.27-13.04.30:850][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.08.27-13.04.30:851][953]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.08.27-13.04.30:852][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.27-13.04.30:852][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.27-13.04.30:852][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.27-13.04.30:852][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.27-13.04.30:852][953]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.27-13.04.30:852][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.27-13.04.30:852][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.27-13.04.30:852][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.27-13.04.30:852][953]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.27-13.04.30:852][953]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.27-13.04.30:866][953]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.27-13.04.30:866][953]LogAudioMixer: Display: 1: FrontRight
+[2021.08.27-13.04.30:867][953]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.27-13.04.30:867][953]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.27-13.04.30:867][953]LogAudioMixer: Display: 4: BackLeft
+[2021.08.27-13.04.30:867][953]LogAudioMixer: Display: 5: BackRight
+[2021.08.27-13.04.30:867][953]LogAudioMixer: Display: 6: SideLeft
+[2021.08.27-13.04.30:867][953]LogAudioMixer: Display: 7: SideRight
+[2021.08.27-13.04.31:084][953]LogAudioMixer: Display: Using Audio Device Kopfhörer (2- CORSAIR VOID ELITE Wireless Gaming Headset)
+[2021.08.27-13.04.31:084][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.27-13.04.31:084][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.27-13.04.31:084][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.27-13.04.31:085][953]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.27-13.04.31:085][953]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.27-13.04.31:085][953]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.27-13.04.31:100][953]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.27-13.04.31:100][953]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.27-13.04.31:100][953]LogInit: FAudioDevice initialized.
+[2021.08.27-13.04.31:100][953]LogAudio: Display: Audio Device (ID: 9) registered with world 'TopDownExampleMap'.
+[2021.08.27-13.04.31:117][953]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.27-13.04.31:163][953]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.27-15.04.31
+[2021.08.27-13.04.31:163][953]LogWorld: Bringing up level for play took: 0.044876
+[2021.08.27-13.04.31:164][953]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.08.27-13.04.31:166][953]PIE: Server logged in
+[2021.08.27-13.04.31:168][953]PIE: Play in editor total start time 1,4 seconds.
+[2021.08.27-13.04.46:150][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-13.04.46:150][655]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-13.04.46:151][655]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.04.46:151][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.04.46:165][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.27-13.04.46:209][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.04.46:229][655]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.27-13.04.46:229][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-13.04.46:231][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-13.04.46:247][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-13.04.46:283][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.08.27-13.04.46:322][656]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.08.27-13.04.54:541][419]LogEditorTransaction: Undo Delete current selection
+[2021.08.27-13.04.56:908][540]LogEditorTransaction: Undo Delete current selection
+[2021.08.27-13.06.13:737][635]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.27-13.06.13:744][635]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.27-13.06.13:746][635]LogPlayLevel: [PlayLevel] Compiling TopDownCharacter before play...
+[2021.08.27-13.06.13:879][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.08.27-13.06.13:881][635]LogPlayLevel: PlayLevel: Blueprint regeneration took 136 ms (1 blueprints)
+[2021.08.27-13.06.13:881][635]PIE: New page: PIE session: TopDownExampleMap (27.08.2021, 17:06:13)
+[2021.08.27-13.06.13:881][635]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-13.06.15:016][635]LogPlayLevel: PIE: StaticDuplicateObject took: (1.134550s)
+[2021.08.27-13.06.15:017][635]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.27-13.06.15:018][635]LogPlayLevel: PIE: World Init took: (0.001741s)
+[2021.08.27-13.06.15:018][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (1.136546s)
+[2021.08.27-13.06.15:047][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.08.27-13.06.15:048][635]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.08.27-13.06.15:048][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.27-13.06.15:048][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.27-13.06.15:048][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.27-13.06.15:048][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.27-13.06.15:048][635]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.27-13.06.15:048][635]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.27-13.06.15:048][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.27-13.06.15:048][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.27-13.06.15:049][635]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.27-13.06.15:049][635]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.27-13.06.15:062][635]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.27-13.06.15:062][635]LogAudioMixer: Display: 1: FrontRight
+[2021.08.27-13.06.15:062][635]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.27-13.06.15:062][635]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.27-13.06.15:062][635]LogAudioMixer: Display: 4: BackLeft
+[2021.08.27-13.06.15:062][635]LogAudioMixer: Display: 5: BackRight
+[2021.08.27-13.06.15:062][635]LogAudioMixer: Display: 6: SideLeft
+[2021.08.27-13.06.15:062][635]LogAudioMixer: Display: 7: SideRight
+[2021.08.27-13.06.15:273][635]LogAudioMixer: Display: Using Audio Device Kopfhörer (2- CORSAIR VOID ELITE Wireless Gaming Headset)
+[2021.08.27-13.06.15:273][635]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.27-13.06.15:273][635]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.27-13.06.15:274][635]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.27-13.06.15:274][635]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.27-13.06.15:274][635]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.27-13.06.15:274][635]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.27-13.06.15:291][635]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.27-13.06.15:291][635]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.27-13.06.15:291][635]LogInit: FAudioDevice initialized.
+[2021.08.27-13.06.15:292][635]LogAudio: Display: Audio Device (ID: 10) registered with world 'TopDownExampleMap'.
+[2021.08.27-13.06.15:306][635]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.27-13.06.15:347][635]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.27-15.06.15
+[2021.08.27-13.06.15:347][635]LogWorld: Bringing up level for play took: 0.039840
+[2021.08.27-13.06.15:348][635]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.08.27-13.06.15:351][635]PIE: Server logged in
+[2021.08.27-13.06.15:352][635]PIE: Play in editor total start time 1,609 seconds.
+[2021.08.27-13.06.19:899][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-13.06.19:899][134]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.27-13.06.19:899][134]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.06.19:900][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.06.19:909][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.27-13.06.19:956][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.06.19:979][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.27-13.06.19:979][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-13.06.19:980][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.27-13.06.20:035][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.08.27-13.06.20:078][135]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.08.27-13.06.21:313][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-13.06.21:567][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.08.27-13.06.25:491][288]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/TopDownExampleMap03401CEF4296E1332F79E8AC1285EEE8.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.08.27-13.06.25:497][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../Unreal/Epic-MegaJam/MarsSurvival/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2021.08.27-13.06.25:609][288]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/TopDownExampleMap_BuiltData812DC1DC4C3E935D2BA3C4916E53ED5D.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.08.27-13.06.25:637][288]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.27-13.06.25:637][288]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.08.27-13.06.25:637][288]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
