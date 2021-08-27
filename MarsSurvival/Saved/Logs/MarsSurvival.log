@@ -1793,3 +1793,109 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.27-13.16.27:056][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
 [2021.08.27-13.16.27:082][239]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/TopDownCharacter_Auto2F5542F584CE89578E35F6486D31F0610.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto2.uasset'
 [2021.08.27-13.16.27:082][239]LogFileHelpers: Auto-saving content packages took 0.027
+[2021.08.27-13.37.37:180][473]AssetReimport: New page: Outstanding source content changes 17:37:37
+[2021.08.27-13.37.37:327][474]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 X:/Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.fbx)
+[2021.08.27-13.37.37:468][474]LogFbx: Loading FBX Scene from X:/Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.fbx
+[2021.08.27-13.37.37:558][474]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.27-13.37.41:836][474]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.27-13.37.42:850][474]LogStaticMesh: Building static mesh pistol_Cube...
+[2021.08.27-13.37.42:973][474]LogStaticMesh: Built static mesh [0.11s] /Game/Geometry/Meshes/pistol_Cube.pistol_Cube
+[2021.08.27-13.37.43:095][474]LogStaticMesh: Building static mesh pistol_Cube_001...
+[2021.08.27-13.37.43:096][474]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/pistol_Cube_001.pistol_Cube_001
+[2021.08.27-13.37.43:426][474]LogSlate: Took 0.031608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.27-13.37.43:865][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.08.27-13.37.46:901][585]AssetReimport: Importing new asset /Game/Geometry/Meshes/pistol.
+[2021.08.27-13.37.51:628][917]LogSlate: Window 'Message Log' being destroyed
+[2021.08.27-13.37.51:634][917]LogSlate: Window 'Message Log' being destroyed
+[2021.08.27-13.37.55:641][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.08.27-13.37.57:322][189]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-13.37.57:411][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.08.27-13.37.58:186][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.27-13.37.59:322][242]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-13.37.59:410][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.08.27-13.38.00:438][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.08.27-13.38.01:550][325]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-13.38.01:641][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.08.27-13.41.42:864][376]AssetReimport: New page: Outstanding source content changes 17:41:42
+[2021.08.27-13.41.43:235][376]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 X:/Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.fbx)
+[2021.08.27-13.41.43:243][376]LogFbx: Loading FBX Scene from X:/Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.fbx
+[2021.08.27-13.41.43:249][376]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.27-13.41.46:207][376]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.27-13.41.46:263][376]LogStaticMesh: Building static mesh pistol...
+[2021.08.27-13.41.46:265][376]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/pistol.pistol
+[2021.08.27-13.41.46:462][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/pistol" FILE="../../../../../Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.uasset" SILENT=true
+[2021.08.27-13.41.46:486][377]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/pistolD6EFD3B649B857E2801E34B49536D2E4.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.uasset'
+[2021.08.27-13.41.46:598][378]AssetCheck: New page: Asset Save: pistol
+[2021.08.27-13.41.46:598][378]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/pistol.pistol
+[2021.08.27-13.41.49:566][531]AssetReimport: Importing new asset /Game/Geometry/Meshes/pistol.
+[2021.08.27-13.41.53:571][924]LogSlate: Window 'Message Log' being destroyed
+[2021.08.27-13.41.53:577][924]LogSlate: Window 'Message Log' being destroyed
+[2021.08.27-13.41.55:183][ 38]LogActorFactory: Actor Factory created pistol
+[2021.08.27-13.41.56:002][ 88]LogActorFactory: Actor Factory created pistol
+[2021.08.27-13.42.21:498][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-13.42.26:390][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pistol)
+[2021.08.27-13.42.27:642][230]Cmd: DELETE
+[2021.08.27-13.42.27:642][230]Cmd: ACTOR DELETE
+[2021.08.27-13.42.28:602][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.27-13.42.28:624][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.08.27-13.42.28:636][230]LogEditorActor: Deleted 1 Actors (0.994 secs)
+[2021.08.27-13.42.36:983][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.08.27-13.42.38:595][765]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-13.42.38:730][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.08.27-13.42.38:763][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.08.27-13.42.38:783][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.08.27-13.43.04:741][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.27-13.43.08:801][977]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/TopDownExampleMap_Auto325CFF5D94BF9F62D676AEEBD0787BC0F.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap'
+[2021.08.27-13.43.08:803][977]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 4.080
+[2021.08.27-13.43.08:803][977]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 4.080
+[2021.08.27-13.50.55:021][521]AssetReimport: New page: Outstanding source content changes 17:50:55
+[2021.08.27-13.51.37:827][952]AssetReimport: New page: Outstanding source content changes 17:51:37
+[2021.08.27-13.51.37:828][952]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 X:/Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.fbx)
+[2021.08.27-13.51.37:836][952]LogFbx: Loading FBX Scene from X:/Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.fbx
+[2021.08.27-13.51.37:842][952]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.27-13.51.39:596][952]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.27-13.51.39:789][952]LogStaticMesh: Building static mesh pistol...
+[2021.08.27-13.51.39:795][952]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/pistol.pistol
+[2021.08.27-13.51.39:996][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/pistol" FILE="../../../../../Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.uasset" SILENT=true
+[2021.08.27-13.51.40:006][953]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/pistol7816392543F802104D374EA854F99B86.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Content/Geometry/Meshes/pistol.uasset'
+[2021.08.27-13.51.40:066][954]AssetCheck: New page: Asset Save: pistol
+[2021.08.27-13.51.40:066][954]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/pistol.pistol
+[2021.08.27-13.51.42:113][ 27]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2021.08.27-13.51.42:187][ 31]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.08.27-13.51.42:685][ 61]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.27-13.51.43:033][ 91]AssetReimport: Importing new asset /Game/Geometry/Meshes/pistol.
+[2021.08.27-13.51.43:058][ 94]LogSlate: Window 'Message Log' being destroyed
+[2021.08.27-13.51.43:071][ 94]LogSlate: Window 'Message Log' being destroyed
+[2021.08.27-13.51.43:600][139]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.08.27-13.51.45:867][254]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.08.27-13.51.47:014][351]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.27-13.51.48:416][491]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.27-13.51.49:591][535]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.27-13.51.49:785][547]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.27-13.51.49:842][547]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/pistol.pistol
+[2021.08.27-13.51.51:887][548]LogRenderer: Reallocating scene render targets to support 1296x880 Format 10 NumSamples 1 (Frame:1).
+[2021.08.27-13.52.15:357][388]LogSlate: Window 'pistol' being destroyed
+[2021.08.27-13.52.15:366][388]LogSlate: Window 'pistol' being destroyed
+[2021.08.27-13.52.15:370][388]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.08.27-13.52.15:370][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.27-13.52.17:024][533]LogActorFactory: Actor Factory created pistol
+[2021.08.27-13.52.17:960][601]LogActorFactory: Actor Factory created pistol
+[2021.08.27-13.52.34:356][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-13.52.35:185][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.27-13.52.35:588][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pistol)
+[2021.08.27-13.52.54:769][334]Cmd: SELECT NONE
+[2021.08.27-13.52.59:689][678]LogUObjectHash: Compacting FUObjectHashTables data took   9.32ms
+[2021.08.27-13.53.01:958][678]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.27-13.53.03:453][678]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Geometry/Meshes/pistol.pistol
+	Asset Name: /Game/Geometry/Meshes/Material_003.Material_003
+	Asset Name: /Game/Geometry/Meshes/Material_002.Material_002
+	Asset Name: /Game/Geometry/Meshes/Material_001.Material_001
+	Asset Name: /Game/Geometry/Meshes/Material.Material
+[2021.08.27-13.53.05:073][678]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.08.27-13.53.05:092][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.08.27-13.53.05:111][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.08.27-13.53.29:825][751]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.08.27-13.53.34:017][751]LogSavePackage: Moving '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/TopDownExampleMap_Auto4D520BD984E84B7F851B3F7B8B10932DC.tmp' to '../../../../../Unreal/Epic-MegaJam/MarsSurvival/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap'
+[2021.08.27-13.53.34:018][751]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 4.278
+[2021.08.27-13.53.34:018][751]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 4.278
